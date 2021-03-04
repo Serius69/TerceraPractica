@@ -39,5 +39,35 @@ Etapa desarrollo
 
 Se tomara como ejemplo la pagina web GoodDogs como referencia para la realizacion del proyecto
 
+Como un software especial de ayuda al proyecto se tiene pensado la contratacion de un dominio
 
+### Necesidades de; sistema
+
+-Registros de los usuarios
+-Enlaces con zoom
+-Clínicas con un módulo con sus direcciones whatsapp
+-Información básica y complementaria de las clínicas
+-Sistema de puntuación de las clínicas
+-Ranking
+
+### Riesgos
+Un riesgo seria al momento de cuidar las mascotas se nos muera o q se nos escape, nosotros queremos hacer un contrato desligando responsabilidades
+
+### Derechos Intelectuales
+Una vez finalizado el proyecto y su puesta en marcha, los derechos de propiedad se la queedara el sponsor del proyecto
+
+### Plazo de entrega
+Tienen planeado enntregar esta pagina web en 6 meses.
+
+### Roles 
+Administrador
+Clínicas
+Voluntarios
+Paciente (mascotas)
+
+### Jefe del proyecto
+La lider del grupo es Mayumi Nina
+
+### Metodos de pago
+El pago se realizará de forma de pago mediante transferencia a un número de cuenta
 
