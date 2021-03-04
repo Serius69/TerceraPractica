@@ -23,4 +23,21 @@ Framework Vue.js  -- -- -- se utilizara para la parte de FrontEnd(vista al usuar
 Base de Datos: Firebase
 
 Tecnologias que se usaran
-Una de las tecnologias que mencioanron es la utilizacion de bots para la comunicacion de forma 
+Una de las tecnologias que mencioanron es la utilizacion de bots para la comunicacion de forma rápida y sencilla con los usuarios 
+
+
+Para ellos lo mas prioritario sera
+Consultas directas con las clínicas
+Evitar intermediarios en la atención
+
+Se quiere lograr una página llamativa con suscripciones y que tenga un buen inicio para tener la ganancia
+
+Las etapas y verificacciones que seran neccesarias son:
+
+Etapa planificación
+Etapa desarrollo
+
+Se tomara como ejemplo la pagina web GoodDogs como referencia para la realizacion del proyecto
+
+
+
