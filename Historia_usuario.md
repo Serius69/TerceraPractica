@@ -59,9 +59,11 @@ Validación: El usuario puede observar sus datos que se registró en la platafor
 - Edad de la mascota.
 - Correo.
 - País / Ciudad.
+
 También tendrá las opciones de edición con los botones de:
 - Editar perfil.
 - Cambiar contraseña.
+
 En la parte de mascotas tiene una descripción detallada de las mascotas que tiene registradas en su perfil:
 - Nombre de la mascota.
 - Raza de la mascota.
@@ -75,14 +77,27 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 
 ### 04. 
 
-Número: 004      Usuario: 
-Nombre de la historia: 
-Prioridad en el Negocio:             Riesgo de desarrollo: 
+Número: 004      Usuario: Clientes
+Nombre de la historia: Edición del perfil del cliente
+Prioridad en el Negocio: Alta            Riesgo de desarrollo: Alta
 Programador responsable: 
-Validación: 
+Validación: En la figura se puede observar los campos que puede editar el usuario, como ser las
+opciones de la edición de datos, que son:
+- Nombre del usuario.
+- Correo.
+- Ciudad.
+- País.
+Por otra parte en la actualización de la contraseña solo se observa los campos de ingreso de la
+nueva contraseña más la verificación de la nueva y la validad de la antigua contraseña.
+
+Finalmente la parte de actualizacion de las mascotas registradas el usuario podra cambiar los siguientes campos:
+- Nombre de la mascota.
+- Raza de la mascota.
+- Edad de la mascota.
 
 
 #### Descripción:
+El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva.
 
 
 ### 05. 
