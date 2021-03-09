@@ -32,17 +32,19 @@ Validación:  El usuario debe tener una cuenta registrada para poder acceder a l
 #### Descripción:
 
 
-### 02. 
+### 02.  Registro al sistema como cliente
 
 Número: 002      Usuario: 
-Nombre de la historia: 
-Prioridad en el Negocio:             Riesgo de desarrollo: 
+Nombre de la historia: Registro al sistema como cliente
+Prioridad en el Negocio: Medio            Riesgo de desarrollo: Bajo
 Programador responsable: 
-Validación: 
-
+Validación: Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios.
 
 #### Descripción:
-
+Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al formulario de registro el cual se encuentra en la parte inferior central de la página de inicio de sesión (Figura 1) como un link. El usuario podrá crear su cuenta ingresando los siguientes datos:
+- Nombre de Usuario.
+- Correo.
+- Contraseña.
 
 ### 03. 
 
