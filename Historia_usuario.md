@@ -5,11 +5,7 @@
 
 ## PET-ANGEL
 
-
-
-
 ## Introducción
-
 
 ## Objetivo
 Identificar los requisitos del sistema y plasmarlo en el documento para desarrollar de forma precisa la
@@ -31,10 +27,10 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 ### 01. Ingreso al sistema como usuario/cliente
 
 Número: 001      Usuario: 
-Nombre de la historia: 
+Nombre de la historia: Ingreso al sistema como usuario/cliente
 Prioridad en el Negocio:             Riesgo de desarrollo: 
 Programador responsable: 
-Validación: 
+Validación:  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto
 
 
 #### Descripción:
