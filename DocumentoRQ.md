@@ -4,7 +4,7 @@
 
 
 **********************************************************************************************
-En respuesta a algunas preuntas realizadas por parte de nosotros a una integrante del equipo del proyecto Pet-Angels, se obtuvo cierta informacion relevante sobre el proyecto que quieren encarrar
+En respuesta a algunas preguntas realizadas por parte de nosotros a una integrante del equipo del proyecto Pet-Angels, se obtuvo cierta información relevante sobre el proyecto que quieren encarar
 
 
 ## Requerimientos del sistema   📦
@@ -12,11 +12,11 @@ En respuesta a algunas preuntas realizadas por parte de nosotros a una integrant
 
 Lo que les motiva es ayudar a los animales ya que hoy en día los dueños cuidan de sus mascotas de una manera inadecuada. Y ellos quieren mejorar esto mediante la ayuda de este proyecto
 
-Lo que desean ofrecer es por medio de su pagina Web el mostrar cuidado de mascotas con diferentes clinicas veterninarias certificadas
+Lo que desean ofrecer es por medio de su pagina Web el mostrar cuidado de mascotas con diferentes clínicas veterinarias certificadas
 
-Como su principal objetivo es informar sobre el cuidado de las mascotas que estran en la pagina web.
+Como su principal objetivo es informar sobre el cuidado de las mascotas que estaran en la pagina web.
 
-La informacion necesaria sobre el cuidado de mascotas la obtendran por parte de la ALcaldia Municipal de La Paz
+La información necesaria sobre el cuidado de mascotas la obtendrán por parte de la ALcaldia Municipal de La Paz
 
 Los principales beneficiarios seran los amantes de las mascotas
 

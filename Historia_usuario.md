@@ -1,8 +1,8 @@
-
+﻿
 
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
-
+<center><img src="ing/PetAngel.jpg" width="100"></center>
 ## PET-ANGEL
 
 ## Introducción
@@ -13,8 +13,7 @@ plataforma mencionada y explicar los procesos que se llevarán a cabo.
 
 
 ## A quién está dirigido
-Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva acabó en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes. Contando con voluntarios que estaran al cuidado de las mascotas con el servicio de guarderia, los cuales tendran un acceso al descuento Angels. Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
-
+Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva acabó en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes. Contando con voluntarios que estarán al cuidado de las mascotas con el servicio de guardería, los cuales tendrán un acceso al descuento Angels. Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
 
 ## Niveles de prioridad
 Los niveles de prioridad serán en función al efecto que tenga en el núcleo del sistema, que en esta plataforma sería la . Para este sistema se definen los siguientes niveles de prioridad:
@@ -109,6 +108,6 @@ Validación:
 
 
 
-##Conclusion
+##Conclusión
 
 
