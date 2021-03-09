@@ -1,9 +1,7 @@
-<<<<<<< HEAD
-﻿
 
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
-<center><img src="ing/PetAngel.jpg" width="100"></center>
+<center><img src="img/PetAngel.jpg" width="100"></center>
 ## PET-ANGEL
 =======
 # Historias de Usuario
