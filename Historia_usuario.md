@@ -1,20 +1,15 @@
-
-
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
 
-## PET-ANGEL
+### TITULO DEL PROYECTO PET-ANGEL
 
 ## Introducción
 
 ## Objetivo
-Identificar los requisitos del sistema y plasmarlo en el documento para desarrollar de forma precisa la
-plataforma mencionada y explicar los procesos que se llevarán a cabo.
-
+Identificar los requisitos del sistema y plasmarlo en el documento para desarrollar de forma precisa la plataforma mencionada y explicar los procesos que se llevarán a cabo.
 
 ## A quién está dirigido
 Esta plataforma es principalmente informativa sobre el buen cuidado y crianza de las mascotas, agilizando cada uno de los procesos que actualmente se lleva acabó en las clínicas veterinarias, logrando brindar un mejor servicio a los clientes. Contando con voluntarios que estaran al cuidado de las mascotas con el servicio de guarderia, los cuales tendran un acceso al descuento Angels. Pet-Angeles busca destacar, ofreciendo contacto con las diferentes clínicas certificadas que se encuentren afiliados a la plataforma.
-
 
 ## Niveles de prioridad
 Los niveles de prioridad serán en función al efecto que tenga en el núcleo del sistema, que en esta plataforma sería la . Para este sistema se definen los siguientes niveles de prioridad:
@@ -111,4 +106,6 @@ Validación:
 
 ##Conclusion
 
+Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL"”, se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
 
+Cada proceso fue detallado y descrito a lo largo del documento para que sea entendible para cualquier individuo. No obstante, es necesario aclarar que hay algunos procesos y funciones que serán externos en la primera versión del sistema.
