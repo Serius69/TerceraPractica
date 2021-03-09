@@ -46,16 +46,31 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 - Correo.
 - Contraseña.
 
-### 03. 
+### 03. Visualización del perfil del cliente
 
 Número: 003      Usuario: 
-Nombre de la historia: 
-Prioridad en el Negocio:             Riesgo de desarrollo: 
+Nombre de la historia: Visualización del perfil del cliente
+Prioridad en el Negocio:  Medio           Riesgo de desarrollo: Bajo
 Programador responsable: 
-Validación: 
+Validación: El usuario puede observar sus datos que se registró en la plataforma, además en la parte inferior se observa el historial de consultas que tiene, por otra parte, se observa algunas opciones que puede editar y/o agregar los datos para hacer mas completo su perfil:
+- Nombre de Usuario.
+- Nombre de la mascota.
+- Raza de la mascota.
+- Edad de la mascota.
+- Correo.
+- País / Ciudad.
+También tendrá las opciones de edición con los botones de:
+- Editar perfil.
+- Cambiar contraseña.
+En la parte de mascotas tiene una descripción detallada de las mascotas que tiene registradas en su perfil:
+- Nombre de la mascota.
+- Raza de la mascota.
+- Edad de la mascota.
+- Generar cita
 
 
 #### Descripción:
+El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
 
 
 ### 04. 
