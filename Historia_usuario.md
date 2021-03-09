@@ -154,6 +154,4 @@ Cada proceso fue detallado y descrito a lo largo del documento para que sea ente
 
 Cabe recalcar que si bien se identificaron los requisitos principales, a medida que se lleva a cabo el desarrollo del sistema es inevitable que vayan apareciendo más requisitos, los cuales serán documentados paralelamente.
 
-|asdasd|asdasd|asdas|
-|------|------------|
-|adasda|asdadasdadad|
+
