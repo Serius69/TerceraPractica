@@ -1,10 +1,10 @@
-
+﻿
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
 <p align="center"><img src="img/PetAngel.jpg" width="300"></p>
 
 ## PET-ANGEL
-===================================================================================
+---
 
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
@@ -153,3 +153,7 @@ Después de un análisis minucioso de los requerimientos necesarios para la plat
 Cada proceso fue detallado y descrito a lo largo del documento para que sea entendible para cualquier individuo. No obstante, es necesario aclarar que hay algunos procesos y funciones que serán externos en la primera versión del sistema.
 
 Cabe recalcar que si bien se identificaron los requisitos principales, a medida que se lleva a cabo el desarrollo del sistema es inevitable que vayan apareciendo más requisitos, los cuales serán documentados paralelamente.
+
+|asdasd|asdasd|asdas|
+|------|------------|
+|adasda|asdadasdadad|
