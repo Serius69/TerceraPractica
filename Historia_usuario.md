@@ -56,7 +56,26 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 - Correo.
 - Contraseña.
 
-### 03. Visualización del perfil del cliente
+### 03. Registro de usuario como "voluntario"
+
+Numero:*001*
+Usuario: *Voluntarios*
+Nombre de la historia: *Registro en el sistema como voluntario*
+Prioridad en el Negocio: *Medio*
+Riesgo de desarrollo : *Medio*
+Programador responsable : *Porcel Peña Jhoan*
+Registrarse como voluntarios, los cuales no tendran*
+Validación : *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
+
+#### Descripcion:
+*El presente registro lo harán los usuarios que desean, con los siguientes datos:
+- Nombre de usuario.
+- E-mail.
+- Contraseña.
+- numero de celular.
+- Numero de emergencia.
+
+### 04. Visualización del perfil del cliente
 
 Número: 003      Usuario: 
 Nombre de la historia: Visualización del perfil del cliente
@@ -85,7 +104,7 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
 
 
-### 04. 
+### 05. 
 
 Número: 004      Usuario: Clientes
 Nombre de la historia: Edición del perfil del cliente
@@ -110,7 +129,7 @@ Finalmente la parte de actualizacion de las mascotas registradas el usuario podr
 El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva.
 
 
-### 05. 
+### 06. 
 
 Número: 005      Usuario: 
 Nombre de la historia: 
@@ -122,7 +141,7 @@ Validación:
 #### Descripción:
 
 
-### 06. 
+### 07. 
 
 Número: 006      Usuario: 
 Nombre de la historia: 
@@ -134,7 +153,7 @@ Validación:
 #### Descripción:
 
 
-### 07. 
+### 08. 
 
 Número: 007      Usuario: 
 Nombre de la historia: 
