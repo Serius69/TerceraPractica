@@ -1,13 +1,9 @@
 
-
-
-
-
-**********************************************************************************************
+---
 En respuesta a algunas preguntas realizadas por parte de nosotros a una integrante del equipo del proyecto Pet-Angels, se obtuvo cierta información relevante sobre el proyecto que quieren encarar
 
 
-## Requerimientos del sistema   📦
+## **Requerimientos del sistema   📦**
 
 
 Lo que les motiva es ayudar a los animales ya que hoy en día los dueños cuidan de sus mascotas de una manera inadecuada. Y ellos quieren mejorar esto mediante la ayuda de este proyecto
@@ -20,9 +16,10 @@ La información necesaria sobre el cuidado de mascotas la obtendrán por parte d
 
 Los principales beneficiarios seran los amantes de las mascotas
 
-Para la comunicacion entre las clinicas y los duenios se adquirira plataformas de paga 
+Para la comunicacion entre las clinicas y los duenios se adquirira plataformas de paga
 
-## Requerimientos del sistema  Paarte Tecnica 📦
+
+## **Requerimientos del sistema  Paarte Tecnica 📦**
 
 Lenguaje de programacion: JavaScript - 
 Framework Vue.js  -- -- -- se utilizara para la parte de FrontEnd(vista al usuario)
@@ -47,33 +44,38 @@ Se tomara como ejemplo la pagina web GoodDogs como referencia para la realizacio
 
 Como un software especial de ayuda al proyecto se tiene pensado la contratacion de un dominio
 
-### Necesidades de; sistema
+### **Necesidades de; sistema**
 
 -Registros de los usuarios
--Enlaces con zoom
+-Enlaces con zoom y otras plataformas de videollamada (dependiendo donde se sienta mas comodo el usuario)
 -Clínicas con un módulo con sus direcciones whatsapp
 -Información básica y complementaria de las clínicas
 -Sistema de puntuación de las clínicas
--Ranking
+-Comentarios de la atencion a cada Clinica 
 
-### Riesgos
-Un riesgo seria al momento de cuidar las mascotas se nos muera o q se nos escape, nosotros queremos hacer un contrato desligando responsabilidades
+### **Riesgos**
 
-### Derechos Intelectuales
+Un riesgo del proyecto seria que una mascota se nos muera o se nos escape cuando esta bajo nuestro cuidado asi que se necesita que el sistema  haga una generacion de un documento legal donde se deslige de obligaciones por posibles percanses que se pueda tener con una mascota.
+### **Derechos Intelectuales**
 Una vez finalizado el proyecto y su puesta en marcha, los derechos de propiedad se la queedara el sponsor del proyecto
 
-### Plazo de entrega
-Tienen planeado enntregar esta pagina web en 6 meses.
+### **Plazo de entrega**
+El tiempor de entrega de la pagina web es de 6 meses a partir de la aprobacion del sponsor 
 
-### Roles 
-Administrador
-Clínicas
-Voluntarios
-Paciente (mascotas)
+### **Roles**
+Los roles que se manejara en el proyecto seran los siguientes:
 
-### Jefe del proyecto
+* **Administrador:** Sera la persona que controle todos los aspectos de la pagina ademas el rol mas alto entre ellos.
+
+* **Clínicas:** La Opcion de poder ver los pacientes para asi poder confirmar una cita previa o hacer una revision de emergencia a travez de una de sus plataformas de videollamada.
+
+* **Voluntarios:** Los voluntarios solo podran ver los la lista de perros que necesiten su cuidado ademas de poder ver su devida remuneracion que les dara la pagina.
+
+* **Paciente (mascotas):** El paciente podra consultar la lista de veterinarios afiliados a la pagina y acreditados por la alcaldia, el paciente podra generar una cita previa con la veterinaria mediante la pagina tanto como sita en la veterinaria o de forma virtual por video llamadas como tambien los casos de emergencia que podria tener la mascota.
+
+### **Jefe del proyecto**
 La lider del grupo es Mayumi Nina
 
-### Metodos de pago
+### **Metodos de pago**
 El pago se realizará de forma de pago mediante transferencia a un número de cuenta
 
