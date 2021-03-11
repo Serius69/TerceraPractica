@@ -160,7 +160,7 @@ Finalmente la parte de actualización de las mascotas registradas el usuario pod
 #### **Descripción:**
 El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva (Fig-005).
 
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/005EditUs.png" width="600"></p>
 <p align="center">Fig-005</p>
 
 ### **06. Visualización del perfil de clínica**
