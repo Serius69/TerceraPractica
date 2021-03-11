@@ -41,16 +41,16 @@
 
 ## INDICE DE PROCESOS
 
-* Proceso  1: Proceso para inicio de sesión
-* Proceso  2: Proceso para Registro de cuenta
-* Proceso  3: Proceso para Registro de cuenta nivel voluntario
-* Proceso  4: Proceso para Modificacion de perfil 
-* Proceso  5: Proceso para Perfil del cliente
-* Proceso  6: Proceso para plataforma de clinicas
-* Proceso  7: Proceso para perfil de clinicas
-* Proceso  8: Proceso para plataforma video llamada
-* Proceso  9: Proceso para registro de administrador
-* Proceso  10: Proceso para Recuperacion de contraseña
+* Proceso 001: Proceso para inicio de sesión
+* Proceso 002: Proceso para Registro de cuenta
+* Proceso 003: Proceso para Registro de cuenta nivel voluntario
+* Proceso 004: Proceso para Modificacion de perfil 
+* Proceso 005: Proceso para Perfil del cliente
+* Proceso 006: Proceso para plataforma de clinicas
+* Proceso 007: Proceso para perfil de clinicas
+* Proceso 08: Proceso para plataforma video llamada
+* Proceso 09: Proceso para registro de administrador
+* Proceso 010: Proceso para Recuperacion de contraseña
 
 ### TITULO DEL PROYECTO PET-ANGEL
 
