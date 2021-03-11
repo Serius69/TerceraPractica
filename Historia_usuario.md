@@ -270,12 +270,13 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 <p align="center">Fig-008</p>
 
 ## Proceso
-<<<<<<< HEAD
+
 <p align="center"><img src="img/vid.png" width="600"></p>
 <p align="center">P-008</p>
 
+
 ### **009.  Creación de la cuenta del administrador**
->>>>>>> 9cae6026d67cec8f8c971cb8664aa7e6fabae236
+
 
 **Número:** 009     **Usuario:**
 
