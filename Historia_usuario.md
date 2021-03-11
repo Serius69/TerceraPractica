@@ -234,7 +234,7 @@ El Usuario podra elegir la plataforma de videollamada con la cual esten mas fami
 
 El Usuario tendra a su disposicion varias plataformas donde pueda el realizar videollamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) asi el podra escoger la tecnologia con el que se sienta mas comodo. (Fig-008)
 
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
 ### **009.**
