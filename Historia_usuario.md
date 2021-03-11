@@ -15,42 +15,42 @@
 3. A quien esta dirigido
 4. Niveles de prioridad
 5. Historias de usuario
-    5.1 Ingreso al sistema como usuario/cliente
-    5.2 Registro al sistema como cliente
-    5.3 Registro de usuario como "voluntario
-    5.4 Edición de Perfil del Cliente
-    5.5 Visualización del perfil del cliente
-    5.6 Visualización clínicas
-    5.7 Visualización del perfil de clínica
-    5.8 Visualización de plataformas de video llamada
-    5.9 Creación de la cuenta del administrador
-    5.10 Recuperación de contraseña
+  * 5.1 Ingreso al sistema como usuario/cliente
+  * 5.2 Registro al sistema como cliente
+  * 5.3 Registro de usuario como "voluntario
+  * 5.4 Edición de Perfil del Cliente
+  * 5.5 Visualización del perfil del cliente
+  * 5.6 Visualización clínicas
+  * 5.7 Visualización del perfil de clínica
+  * 5.8 Visualización de plataformas de video llamada
+  * 5.9 Creación de la cuenta del administrador
+  * 5.10 Recuperación de contraseña
     
 ## INDICE DE FIGURAS
 
-Figura 001 : inicio de sesión
-Figura 002 : Registro de cuenta
-Figura 003 : Registro de cuenta nivel voluntario
-Figura 004 : Modificacion de perfil 
-Figura 005 : Perfil del cliente
-Figura 006 : plataforma de clinicas
-Figura 007 : perfil de clinicas
-Figura 008 : plataforma video llamada
-Figura 009 : registro de administrador
-Figura 010 : Recuperacion de contraseña
+* Figura 001 : inicio de sesión
+* Figura 002 : Registro de cuenta
+* Figura 003 : Registro de cuenta nivel voluntario
+* Figura 004 : Modificacion de perfil 
+* Figura 005 : Perfil del cliente
+* Figura 006 : plataforma de clinicas
+* Figura 007 : perfil de clinicas
+* Figura 008 : plataforma video llamada
+* Figura 009 : registro de administrador
+* Figura 010 : Recuperacion de contraseña
 
 ## INDICE DE PROCESOS
 
-Proceso  1: Proceso para inicio de sesión
-Proceso  2: Proceso para Registro de cuenta
-Proceso  3: Proceso para Registro de cuenta nivel voluntario
-Proceso  4: Proceso para Modificacion de perfil 
-Proceso  5: Proceso para Perfil del cliente
-Proceso  6: Proceso para plataforma de clinicas
-Proceso  7: Proceso para perfil de clinicas
-Proceso  8: Proceso para plataforma video llamada
-Proceso  9: Proceso para registro de administrador
-Proceso  10: Proceso para Recuperacion de contraseña
+* Proceso  1: Proceso para inicio de sesión
+* Proceso  2: Proceso para Registro de cuenta
+* Proceso  3: Proceso para Registro de cuenta nivel voluntario
+* Proceso  4: Proceso para Modificacion de perfil 
+* Proceso  5: Proceso para Perfil del cliente
+* Proceso  6: Proceso para plataforma de clinicas
+* Proceso  7: Proceso para perfil de clinicas
+* Proceso  8: Proceso para plataforma video llamada
+* Proceso  9: Proceso para registro de administrador
+* Proceso  10: Proceso para Recuperacion de contraseña
 
 ### TITULO DEL PROYECTO PET-ANGEL
 
