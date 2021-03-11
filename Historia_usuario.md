@@ -92,7 +92,6 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - E-mail.
 - Contraseña.
 - numero de celular.
-- Numero de emergencia.
 
 
 <p align="center"><img src="img/Perfil.png" width="600"></p>
