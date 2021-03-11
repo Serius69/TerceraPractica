@@ -46,7 +46,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe de registrarse.
 
 
-<p align="center"><img src="img/login.png" width="600"></p>
+<p align="center"><img src="img/001login.png" width="600"></p>
 <p align="center">Fig-001</p>
 
 
@@ -69,7 +69,7 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 - Contraseña.
 
 
-<p align="center"><img src="img/Registro.png" width="600"></p>
+<p align="center"><img src="img/002Registro.png" width="600"></p>
 <p align="center">Fig-002</p>
 
 
@@ -95,7 +95,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - numero de celular.
 
 
-<p align="center"><img src="img/Registro voluntarios.png" width="600"></p>
+<p align="center"><img src="img/003Registro voluntarios.png" width="600"></p>
 <p align="center">Fig-003</p>
 
 
@@ -130,7 +130,7 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 #### **Descripción:**
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene(Fig-004).
 
-<p align="center"><img src="img/Perfil.png" width="600"></p>
+<p align="center"><img src="img/004Perfil.png" width="600"></p>
 <p align="center">Fig-004</p>
 
 ### **05. Edición de Perfil del Cliente**
@@ -191,7 +191,7 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 #### **Descripción:**
 Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clínica veterinaria, la cual estará en su perfil de la misma(Fig-006).
 
-<p align="center"><img src="img/Vista Clinica.png" width="600"></p>
+<p align="center"><img src="img/006Vista Clinica.png" width="600"></p>
 <p align="center">Fig-006</p>
 
 ### **07. Visualización clínicas**
@@ -213,10 +213,10 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 #### **Descripción:**
 Todos los usuarios registrados en general,podrán visualizar la información de las diferentes clinicas"(Fig-007).
 
-<p align="center"><img src="img/Clinicas menu.png" width="600"></p>
+<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
 <p align="center">Fig-007</p>
 
-<p align="center"><img src="img/Destacados.png" width="600"></p>
+<p align="center"><img src="img/0072Destacados.png" width="600"></p>
 <p align="center">Fig-007</p>
 
 ### **008. Visualización de plataformas de video llamada**
@@ -237,7 +237,7 @@ El Usuario podrá elegir la plataforma de video llamada con la cual esten mas fa
 
 El Usuario tendrá a su disposición varias plataformas donde pueda el realizar video llamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) así el podrá escoger la tecnología con el que se sienta mas cómodo. (Fig-008)
 
-<p align="center"><img src="img/Videollamada.png" width="600"></p>
+<p align="center"><img src="img/008Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
 ### **009.**
@@ -291,7 +291,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - País / Ciudad.
 - Contraseña.
 - Pregunta frecuente y respuesta**
-<p align="center"><img src="img/Creacion admin.png" width="600"></p>
+<p align="center"><img src="img/011Creacion admin.png" width="600"></p>
 <p align="center">Fig-011 “Creación de la cuenta del administrador”.
 </p>
 
@@ -317,7 +317,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 #### **Descripción:  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de
 seguridad.**
 
-<p align="center"><img src="img/Recuperacion de contrasenia.png" width="600"></p>
+<p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
 <p align="center">Fig-012 </p>
 
 Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
