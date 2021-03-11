@@ -58,13 +58,12 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 
 ### 03. Registro de usuario como "voluntario"
 
-Numero:*001*
+Numero:*003*
 Usuario: *Voluntarios*
 Nombre de la historia: *Registro en el sistema como voluntario*
 Prioridad en el Negocio: *Medio*
 Riesgo de desarrollo : *Medio*
 Programador responsable : *Porcel Peña Jhoan*
-Registrarse como voluntarios, los cuales no tendran*
 Validación : *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
 
 #### Descripcion:
@@ -77,7 +76,7 @@ Validación : *Se debe validar el nombre de usuario, correo electronico, numero 
 
 ### 04. Visualización del perfil del cliente
 
-Número: 003      Usuario: 
+Número: 004      Usuario: 
 Nombre de la historia: Visualización del perfil del cliente
 Prioridad en el Negocio:  Medio           Riesgo de desarrollo: Bajo
 Programador responsable: 
@@ -106,7 +105,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 
 ### 05. 
 
-Número: 004      Usuario: Clientes
+Número: 005     Usuario: Clientes
 Nombre de la historia: Edición del perfil del cliente
 Prioridad en el Negocio: Alta            Riesgo de desarrollo: Alta
 Programador responsable: 
@@ -127,6 +126,25 @@ Finalmente la parte de actualizacion de las mascotas registradas el usuario podr
 
 #### Descripción:
 El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva.
+
+
+### 06. Visualización del perfil de clinica"
+
+Numero:*006*
+Usuario: clientes nivel clinica
+Nombre de la historia: *Visualización del perfil de clinica*
+Prioridad en el Negocio: *Medio*
+Riesgo de desarrollo : *bajo*
+Programador responsable : *Porcel Peña Jhoan*
+Validación : *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
+
+#### Descripcion:
+*El presente registro lo harán los usuarios que desean, con los siguientes datos:
+- Nombre de usuario.
+- E-mail.
+- Contraseña.
+- numero de celular.
+- Numero de emergencia.
 
 
 ### 06. 
