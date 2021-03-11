@@ -5,11 +5,12 @@
 
 ## PET-ANGEL
 ---
-
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
 
+
 ### TITULO DEL PROYECTO PET-ANGEL
+
 
 
 ## Introducción
@@ -50,6 +51,7 @@ El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio
 <p align="center">Fig-001</p>
 
 ## Proceso
+
 <p align="center"><img src="img/sis.png" width="600"></p>
 <p align="center">P-001</p>
 
