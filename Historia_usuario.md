@@ -1,7 +1,7 @@
 ﻿
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
-<p align="center"><img src="img/PetAngel.jpg" width="300"></p>
+<p align="center"><img src="img/PetAngel.jpg" width="500" ></p>
 
 ## PET-ANGEL
 ---
@@ -47,6 +47,7 @@ El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio d
 
 
 <p align="center"><img src="img/login.png" width="600"></p>
+<p align="center">Fig-001</p>
 
 
 **### 02.  Registro al sistema como cliente**
