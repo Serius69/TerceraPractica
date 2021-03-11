@@ -49,6 +49,9 @@ El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio
 <p align="center"><img src="img/001login.png" width="600"></p>
 <p align="center">Fig-001</p>
 
+## Proceso
+<p align="center"><img src="img/sis.png" width="600"></p>
+<p align="center">P-001</p>
 
 ### **02.  Registro al sistema como cliente**
 
@@ -71,6 +74,10 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 
 <p align="center"><img src="img/002Registro.png" width="600"></p>
 <p align="center">Fig-002</p>
+
+## Proceso
+<p align="center"><img src="img/reg.png" width="600"></p>
+<p align="center">P-002</p>
 
 
 ### **03. Registro de usuario como "voluntario"**
@@ -97,6 +104,10 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 
 <p align="center"><img src="img/003Registro voluntarios.png" width="600"></p>
 <p align="center">Fig-003</p>
+
+## Proceso
+<p align="center"><img src="img/reg.png" width="600"></p>
+<p align="center">P-003</p>
 
 
 ### **04. Visualización del perfil del cliente**
@@ -133,6 +144,10 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 <p align="center"><img src="img/004Perfil.png" width="600"></p>
 <p align="center">Fig-004</p>
 
+## Proceso
+<p align="center"><img src="img/usu.png" width="600"></p>
+<p align="center">P-004</p>
+
 ### **05. Edición de Perfil del Cliente**
 
 **Número:** 005     **Usuario:** Clientes
@@ -162,6 +177,10 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 
 <p align="center"><img src="img/005EditUs.png" width="600"></p>
 <p align="center">Fig-005</p>
+
+## Proceso
+<p align="center"><img src="img/edit.png" width="600"></p>
+<p align="center">P-005</p>
 
 ### **06. Visualización del perfil de clínica**
 
@@ -194,6 +213,10 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 <p align="center"><img src="img/006Vista Clinica.png" width="600"></p>
 <p align="center">Fig-006</p>
 
+## Proceso
+<p align="center"><img src="img/clin.png" width="600"></p>
+<p align="center">P-006</p>
+
 ### **07. Visualización clínicas**
 
 **Numero:** *007*
@@ -218,6 +241,10 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 
 <p align="center"><img src="img/0072Destacados.png" width="600"></p>
 <p align="center">Fig-007</p>
+
+## Proceso
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-002</p>
 
 ### **008. Visualización de plataformas de video llamada**
 
