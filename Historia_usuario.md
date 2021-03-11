@@ -29,44 +29,55 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 2. Medio: El módulo afecta al núcleo del sistema parcialmente.
 3. Bajo: Afecta al núcleo del sistema de forma externa, sin embargo es prescindible.
 
-## Historias de Usuario
-### 01. Ingreso al sistema como usuario/cliente
+**## Historias de Usuario**
+**### 01. Ingreso al sistema como usuario/cliente**
 
-Número: 001      Usuario: 
-Nombre de la historia: Ingreso al sistema como usuario/cliente
-Prioridad en el Negocio:             Riesgo de desarrollo: 
-Programador responsable: 
-Validación:  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto
+**Número**: 001      **Usuario**: Clientes
 
+**Nombre de la historia**: Ingreso al sistema como usuario/cliente
 
-#### Descripción:
+**Prioridad en el Negocio**:Medio             **Riesgo de desarrollo**: Bajo
 
+**Programador responsable:** 
 
-### 02.  Registro al sistema como cliente
+**Validación:**  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto :correo sin caracteres invalidos y contrasenia minima de 8 caracteres.
 
-Número: 002      Usuario: 
-Nombre de la historia: Registro al sistema como cliente
-Prioridad en el Negocio: Medio            Riesgo de desarrollo: Bajo
-Programador responsable: 
-Validación: Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios.
+#### **Descripción:**
+El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio de sesion para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contrasenia, si el usuario no cuenta con una cuenta registrada debe de registrarse.
 
-#### Descripción:
+**### 02.  Registro al sistema como cliente**
+
+**Número:** 002   **Usuario:** Clientes 
+
+**Nombre de la historia:** Registro al sistema como cliente
+
+**Prioridad en el Negocio:** Medio            **Riesgo de desarrollo:** Bajo
+
+**Programador responsable:**
+
+**Validación:** Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios.
+
+#### **Descripción:**
 Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al formulario de registro el cual se encuentra en la parte inferior central de la página de inicio de sesión (Figura 1) como un link. El usuario podrá crear su cuenta ingresando los siguientes datos:
 - Nombre de Usuario.
 - Correo.
 - Contraseña.
 
-### 03. Registro de usuario como "voluntario"
+### **03. Registro de usuario como "voluntario"**
 
-Numero:*003*
-Usuario: *Voluntarios*
-Nombre de la historia: *Registro en el sistema como voluntario*
-Prioridad en el Negocio: *Medio*
-Riesgo de desarrollo : *Medio*
-Programador responsable : *Porcel Peña Jhoan*
-Validación : *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
+**Numero:** 003 **Usuario:** Voluntarios
 
-#### Descripcion:
+**Nombre de la historia:** *Registro en el sistema como voluntario*
+
+**Prioridad en el Negocio:** *Medio*
+
+**Riesgo de desarrollo:** *Medio*
+
+**Programador responsable:** *Porcel Peña Jhoan*
+
+**Validación:** *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
+
+#### **Descripcion:**
 El presente registro lo harán los usuarios que desean, con los siguientes datos:
 - Nombre de usuario.
 - E-mail.
@@ -74,13 +85,16 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - numero de celular.
 - Numero de emergencia.
 
-### 04. Visualización del perfil del cliente
+### **04. Visualización del perfil del cliente**
 
-Número: 004      Usuario: 
-Nombre de la historia: Visualización del perfil del cliente
-Prioridad en el Negocio:  Medio           Riesgo de desarrollo: Bajo
-Programador responsable: 
-Validación: El usuario puede observar sus datos que se registró en la plataforma, además en la parte inferior se observa el historial de consultas que tiene, por otra parte, se observa algunas opciones que puede editar y/o agregar los datos para hacer mas completo su perfil:
+**Número:** 004      **Usuario:**
+
+**Nombre de la historia:** Visualización del perfil del cliente
+**Prioridad en el Negocio:**  Medio           **Riesgo de desarrollo:** Bajo
+
+**Programador responsable:**
+
+**Validación:** El usuario puede observar sus datos que se registró en la plataforma, además en la parte inferior se observa el historial de consultas que tiene, por otra parte, se observa algunas opciones que puede editar y/o agregar los datos para hacer mas completo su perfil:
 - Nombre de Usuario.
 - Nombre de la mascota.
 - Raza de la mascota.
@@ -99,17 +113,21 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 - Generar cita
 
 
-#### Descripción:
+#### **Descripción:**
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
 
 
-### 05. 
+### **05. Edicion de Perfil del Cliente**
 
-Número: 005     Usuario: Clientes
-Nombre de la historia: Edición del perfil del cliente
-Prioridad en el Negocio: Alta            Riesgo de desarrollo: Alta
-Programador responsable: 
-Validación: En la figura se puede observar los campos que puede editar el usuario, como ser las
+**Número:** 005     **Usuario:** Clientes
+
+**Nombre de la historia:** Edición del perfil del cliente
+
+**Prioridad en el Negocio:** Alta            **Riesgo de desarrollo:** Alta
+
+**Programador responsable:** 
+
+**Validación:** En la figura se puede observar los campos que puede editar el usuario, como ser las
 opciones de la edición de datos, que son:
 - Nombre del usuario.
 - Correo.
@@ -123,20 +141,23 @@ Finalmente la parte de actualizacion de las mascotas registradas el usuario podr
 - Raza de la mascota.
 - Edad de la mascota.
 
-
-#### Descripción:
+#### **Descripción:**
 El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva.
 
+### **06. Visualización del perfil de clinica**
 
-### 06. Visualización del perfil de clinica"
+**Numero:** *006*
+**Usuario:** clientes nivel clinica
 
-Numero:*006*
-Usuario: clientes nivel clinica
-Nombre de la historia: *Visualización del perfil de clinica*
-Prioridad en el Negocio: *Medio*
-Riesgo de desarrollo : *bajo*
-Programador responsable : *Porcel Peña Jhoan*
-Validación : *Se deberá visualizar los datos generales de las clinicas como:* 
+**Nombre de la historia:** *Visualización del perfil de clinica*
+
+**Prioridad en el Negocio:** *Medio*
+
+**Riesgo de desarrollo :** *bajo*
+
+**Programador responsable :** *Porcel Peña Jhoan*
+
+**Validación:** *Se deberá visualizar los datos generales de las clinicas como:* 
 - Nombre
 - Teléfono
 - Nombre de operadora
@@ -148,61 +169,70 @@ Validación : *Se deberá visualizar los datos generales de las clinicas como:*
 - Sección de mascotas atendidas
 - Una calificación justificada de la clínica
 
-
-#### Descripcion:
+#### **Descripcion:**
 Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma.
 
 
-### 07. Visualización de la pantalla principal"
+### **07. Visualización de la pantalla principal"**
 
-Numero:*007*
-Usuario: clientes en general
-Nombre de la historia: *Visualización de la pantalla principal*
-Prioridad en el Negocio: *Medio*
-Riesgo de desarrollo : *bajo*
-Programador responsable : *Porcel Peña Jhoan*
-Validación : *Se deberá visualizar la información necesaria de la "empresa"* 
+**Numero:** *007*
+**Usuario:** clientes en general
 
+**Nombre de la historia:** *Visualización de la pantalla principal*
 
+**Prioridad en el Negocio:** *Medio*
 
-#### Descripcion:
+**Riesgo de desarrollo :** *bajo*
+
+**Programador responsable :** *Porcel Peña Jhoan*
+
+**Validación:** *Se deberá visualizar la información necesaria de la "empresa"* 
+
+#### **Descripcion:**
 Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la "empresa".
 
 
-### 06. 
+### **008.**
 
-Número: 005      Usuario: 
-Nombre de la historia: 
-Prioridad en el Negocio:             Riesgo de desarrollo: 
-Programador responsable: 
-Validación: 
+**Número:** 008      **Usuario:**
 
+**Nombre de la historia:**
 
-#### Descripción:
+**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
 
+**Programador responsable:**
 
-### 07. 
+**Validación:**
 
-Número: 006      Usuario: 
-Nombre de la historia: 
-Prioridad en el Negocio:             Riesgo de desarrollo: 
-Programador responsable: 
-Validación: 
+#### **Descripción:**
 
+### **009.**
 
-#### Descripción:
+**Número:** 009      **Usuario:**
 
+**Nombre de la historia:**
 
-### 08. 
+**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
 
-Número: 007      Usuario: 
-Nombre de la historia: 
-Prioridad en el Negocio:             Riesgo de desarrollo: 
-Programador responsable: 
-Validación: 
+**Programador responsable:**
 
+**Validación:**
 
-#### Descripción:
+#### **Descripción:**
+
+### **010.**
+
+**Número:** 010      **Usuario:**
+
+**Nombre de la historia:**
+
+**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
+
+**Programador responsable:**
+
+**Validación:**
+
+#### **Descripción:**
 
 
 ## Conclusion
