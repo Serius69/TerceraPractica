@@ -293,7 +293,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
 
-### **012.  Recuperación de contraseña ** 
+### **010.  Recuperación de contraseña ** 
 
 **Número:** 010      **Usuario:**
 
