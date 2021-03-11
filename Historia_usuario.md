@@ -1,4 +1,4 @@
-﻿
+
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
 <p align="center"><img src="img/PetAngel.jpg" width="500" ></p>
@@ -50,7 +50,7 @@ El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio d
 <p align="center">Fig-001</p>
 
 
-**### 02.  Registro al sistema como cliente**
+### **02.  Registro al sistema como cliente**
 
 **Número:** 002   **Usuario:** Clientes 
 
@@ -63,14 +63,14 @@ El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio d
 **Validación:** Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios.
 
 #### **Descripción:**
-Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al formulario de registro el cual se encuentra en la parte inferior central de la página de inicio de sesión (Figura 1) como un link. El usuario podrá crear su cuenta ingresando los siguientes datos:
+Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al formulario de registro el cual se encuentra en la parte inferior central de la página de inicio de sesión (Fig-002) como un link. El usuario podrá crear su cuenta ingresando los siguientes datos:
 - Nombre de Usuario.
 - Correo.
 - Contraseña.
 
 
 <p align="center"><img src="img/Registro.png" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-002</p>
 
 
 ### **03. Registro de usuario como "voluntario"**
@@ -88,7 +88,7 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 **Validación:** *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
 
 #### **Descripcion:**
-El presente registro lo harán los usuarios que desean, con los siguientes datos:
+El presente registro lo harán los usuarios que desean, con los siguientes datos (Fig-003):
 - Nombre de usuario.
 - E-mail.
 - Contraseña.
@@ -96,7 +96,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 
 
 <p align="center"><img src="img/Registro voluntarios.png" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-003</p>
 
 
 ### **04. Visualización del perfil del cliente**
@@ -234,7 +234,7 @@ El Usuario podra elegir la plataforma de videollamada con la cual esten mas fami
 
 El Usuario tendra a su disposicion varias plataformas donde pueda el realizar videollamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) asi el podra escoger la tecnologia con el que se sienta mas comodo. (Fig-008)
 
-<p align="center"><img src="img/Videollamada.png" width="600"></p>
+<p align="center"><img src="" width="600"></p>
 <p align="center">Fig-008</p>
 
 ### **009.**
