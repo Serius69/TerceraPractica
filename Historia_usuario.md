@@ -67,7 +67,7 @@ Programador responsable : *Porcel Peña Jhoan*
 Validación : *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
 
 #### Descripcion:
-*El presente registro lo harán los usuarios que desean, con los siguientes datos:
+El presente registro lo harán los usuarios que desean, con los siguientes datos:
 - Nombre de usuario.
 - E-mail.
 - Contraseña.
@@ -136,15 +136,21 @@ Nombre de la historia: *Visualización del perfil de clinica*
 Prioridad en el Negocio: *Medio*
 Riesgo de desarrollo : *bajo*
 Programador responsable : *Porcel Peña Jhoan*
-Validación : *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
+Validación : *Se deberá visualizar los datos generales de las clinicas como:* 
+- Nombre
+- Teléfono
+- Nombre de operadora
+- ubicación de la clínica
+- Tipos de atención
+- Horario de atención
+- Veterinarios a cargo segun el horario.
+- Sección de video llamadas o llamadas de emergencia
+- Sección de mascotas atendidas
+- Una calificación justificada de la clínica
+
 
 #### Descripcion:
-*El presente registro lo harán los usuarios que desean, con los siguientes datos:
-- Nombre de usuario.
-- E-mail.
-- Contraseña.
-- numero de celular.
-- Numero de emergencia.
+Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma.
 
 
 ### 06. 
