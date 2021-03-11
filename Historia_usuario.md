@@ -334,7 +334,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - Pregunta frecuente y respuesta**
 <p align="center"><img src="img/011Creacion admin.png" width="600"></p>
 
-<<<<<<< HEAD
+
 <p align="center">Fig-011 “Creación de la cuenta del administrador”.
 
 ## Proceso
@@ -342,13 +342,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 <p align="center">P-011</p>
 
 </p>
-=======
-<p align="center">Fig-009 “Creación de la cuenta del administrador”.</p>
 
-## Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
->>>>>>> 9cae6026d67cec8f8c971cb8664aa7e6fabae236
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
 
@@ -377,13 +371,12 @@ seguridad.**
 
 ## Proceso
 <p align="center"><img src="img/cont.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center">P-012</p>
 
 Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
 página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
 respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió correcto el sistema le
 devolverá un mensaje de confirmación de la recuperación de contraseña.
-
 
 
 ## **Conclusión**
@@ -392,7 +385,6 @@ devolverá un mensaje de confirmación de la recuperación de contraseña.
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
----
 
 
 Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL", se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
