@@ -69,6 +69,7 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 
 
 <p align="center"><img src="img/Registro.png" width="600"></p>
+<p align="center">Fig-1</p>
 
 
 ### **03. Registro de usuario como "voluntario"**
@@ -95,6 +96,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 
 
 <p align="center"><img src="img/Perfil.png" width="600"></p>
+<p align="center">Fig-1</p>
 
 
 ### **04. Visualización del perfil del cliente**
@@ -129,6 +131,7 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
 
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 ### **05. Edicion de Perfil del Cliente**
 
@@ -158,6 +161,7 @@ Finalmente la parte de actualizacion de las mascotas registradas el usuario podr
 El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva.
 
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 ### **06. Visualización del perfil de clinica**
 
@@ -188,6 +192,7 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma.
 
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 ### **07. Visualización de la pantalla principal"**
 
@@ -208,6 +213,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la "empresa".
 
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 ### **008.**
 
@@ -224,6 +230,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 #### **Descripción:**
 
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 ### **009.**
 
@@ -237,6 +244,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 
 **Validación:**
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 #### **Descripción:**
 
@@ -252,6 +260,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 
 **Validación:**
 <p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1</p>
 
 #### **Descripción:**
 
