@@ -45,6 +45,8 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 #### **Descripción:**
 El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio de sesion para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contrasenia, si el usuario no cuenta con una cuenta registrada debe de registrarse.
 
+<p align="center"><img src="img/login.png" width="700"></p>
+
 **### 02.  Registro al sistema como cliente**
 
 **Número:** 002   **Usuario:** Clientes 
@@ -63,6 +65,7 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 - Correo.
 - Contraseña.
 
+<p align="center"><img src="img/Registro.png" width="700"></p>
 ### **03. Registro de usuario como "voluntario"**
 
 **Numero:** 003 **Usuario:** Voluntarios
@@ -85,6 +88,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - numero de celular.
 - Numero de emergencia.
 
+<p align="center"><img src="img/Perfil.png" width="700"></p>
 ### **04. Visualización del perfil del cliente**
 
 **Número:** 004      **Usuario:**
