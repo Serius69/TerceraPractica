@@ -30,6 +30,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 3. Bajo: Afecta al núcleo del sistema de forma externa, sin embargo es prescindible.
 
 ## **Historias de Usuario**
+---
 ### **01. Ingreso al sistema como usuario/cliente**
 
 **Número**: 001      **Usuario**: Clientes
@@ -53,6 +54,7 @@ El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio
 <p align="center"><img src="img/sis.png" width="600"></p>
 <p align="center">P-001</p>
 
+---
 ### **02.  Registro al sistema como cliente**
 
 **Número:** 002   **Usuario:** Clientes 
@@ -79,7 +81,7 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-002</p>
 
-
+---
 ### **03. Registro de usuario como "voluntario"**
 
 **Numero:** 003 **Usuario:** Voluntarios
@@ -109,7 +111,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-003</p>
 
-
+---
 ### **04. Visualización del perfil del cliente**
 
 **Número:** 004      **Usuario:**
@@ -148,6 +150,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 <p align="center"><img src="img/usu.png" width="600"></p>
 <p align="center">P-004</p>
 
+---
 ### **05. Edición de Perfil del Cliente**
 
 **Número:** 005     **Usuario:** Clientes
@@ -182,6 +185,7 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 <p align="center"><img src="img/edit.png" width="600"></p>
 <p align="center">P-005</p>
 
+---
 ### **06. Visualización del perfil de clínica**
 
 **Numero:** *006*
@@ -217,6 +221,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 <p align="center"><img src="img/clin.png" width="600"></p>
 <p align="center">P-006</p>
 
+---
 ### **07. Visualización clínicas**
 
 **Numero:** *007*
@@ -246,6 +251,7 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
+---
 ### **008. Visualización de plataformas de video llamada**
 
 **Número:** 008      **Usuario:** Paciente
@@ -267,7 +273,7 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 <p align="center"><img src="img/008Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
-
+---
 ### **009.  Creación de la cuenta del administrador**
 
 **Número:** 009     **Usuario:**admin
@@ -293,6 +299,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
 
+---
 ### **010.  Recuperación de contraseña ** 
 
 **Número:** 010      **Usuario:**
@@ -321,8 +328,8 @@ página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez 
 respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió correcto el sistema le
 devolverá un mensaje de confirmación de la recuperación de contraseña.
 
-
-## Conclusión
+---
+## **Conclusión**
 
 Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL"”, se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
 
