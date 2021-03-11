@@ -244,9 +244,6 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 <p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
 <p align="center">Fig-007</p>
 
-<p align="center"><img src="img/0072Destacados.png" width="600"></p>
-<p align="center">Fig-007</p>
-
 ## Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
