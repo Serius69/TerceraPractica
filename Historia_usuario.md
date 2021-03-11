@@ -1,4 +1,4 @@
-
+﻿
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
 <p align="center"><img src="img/PetAngel.jpg" width="500" ></p>
@@ -40,10 +40,10 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 **Programador responsable:** *Troche Mayta Sergio*
 
-**Validación:**  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto :correo sin caracteres invalidos y contrasenia minima de 8 caracteres.
+**Validación:**  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto :correo sin caracteres inválidos y contraseña mínima de 8 caracteres.
 
 #### **Descripción:**
-El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio de sesion para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contrasenia, si el usuario no cuenta con una cuenta registrada debe de registrarse.
+El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe de registrarse.
 
 
 <p align="center"><img src="img/login.png" width="600"></p>
@@ -85,9 +85,9 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 
 **Programador responsable:** *Porcel Peña Jhoan*
 
-**Validación:** *Se debe validar el nombre de usuario, correo electronico, numero de celular, contraseña*
+**Validación:** *Se debe validar el nombre de usuario, correo electrónico, numero de celular, contraseña*
 
-#### **Descripcion:**
+#### **Descripción:**
 El presente registro lo harán los usuarios que desean, con los siguientes datos (Fig-003):
 - Nombre de usuario.
 - E-mail.
@@ -133,7 +133,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 <p align="center"><img src="img/Perfil.png" width="600"></p>
 <p align="center">Fig-004</p>
 
-### **05. Edicion de Perfil del Cliente**
+### **05. Edición de Perfil del Cliente**
 
 **Número:** 005     **Usuario:** Clientes
 
@@ -152,7 +152,7 @@ opciones de la edición de datos, que son:
 Por otra parte en la actualización de la contraseña solo se observa los campos de ingreso de la
 nueva contraseña más la verificación de la nueva y la validad de la antigua contraseña.
 
-Finalmente la parte de actualizacion de las mascotas registradas el usuario podra cambiar los siguientes campos:
+Finalmente la parte de actualización de las mascotas registradas el usuario podrá cambiar los siguientes campos:
 - Nombre de la mascota.
 - Raza de la mascota.
 - Edad de la mascota.
@@ -163,12 +163,12 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 <p align="center"><img src="" width="600"></p>
 <p align="center">Fig-005</p>
 
-### **06. Visualización del perfil de clinica**
+### **06. Visualización del perfil de clínica**
 
 **Numero:** *006*
-**Usuario:** clientes nivel clinica
+**Usuario:** clientes nivel clínica
 
-**Nombre de la historia:** *Visualización del perfil de clinica*
+**Nombre de la historia:** *Visualización del perfil de clínica*
 
 **Prioridad en el Negocio:** *Medio*
 
@@ -176,25 +176,25 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 
 **Programador responsable :** *Porcel Peña Jhoan*
 
-**Validación:** *Se deberá visualizar los datos generales de las clinicas como:* 
+**Validación:** *Se deberá visualizar los datos generales de las clínicas como:* 
 - Nombre
 - Teléfono
 - Nombre de operadora
 - ubicación de la clínica
 - Tipos de atención
 - Horario de atención
-- Veterinarios a cargo segun el horario.
+- Veterinarios a cargo según el horario.
 - Sección de video llamadas o llamadas de emergencia
 - Sección de mascotas atendidas
 - Una calificación justificada de la clínica
 
-#### **Descripcion:**
-Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma(Fig-006).
+#### **Descripción:**
+Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clínica veterinaria, la cual estará en su perfil de la misma(Fig-006).
 
 <p align="center"><img src="img/Vista Clinica.png" width="600"></p>
 <p align="center">Fig-006</p>
 
-### **07. Visualización clinicas"**
+### **07. Visualización clínicas**
 
 **Numero:** *007*
 
@@ -210,7 +210,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 
 **Validación:** *Se vera las clinicas veterinarias que se encuentran registradas en el sistema"* 
 
-#### **Descripcion:**
+#### **Descripción:**
 Todos los usuarios registrados en general,podrán visualizar la información de las diferentes clinicas"(Fig-007).
 
 <p align="center"><img src="img/Clinicas menu.png" width="600"></p>
@@ -219,11 +219,11 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 <p align="center"><img src="img/Destacados.png" width="600"></p>
 <p align="center">Fig-007</p>
 
-### **008. Visualizacion de plataformas de videollamada**
+### **008. Visualización de plataformas de video llamada**
 
 **Número:** 008      **Usuario:** Paciente
 
-**Nombre de la historia:** Visualizacion de plataformas de videollamada
+**Nombre de la historia:** Visualización de plataformas de video llamada
 
 **Prioridad en el Negocio:**  Media          **Riesgo de desarrollo:** Bajo
 
@@ -231,11 +231,11 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 
 **Validación:** 
 
-El Usuario podra elegir la plataforma de videollamada con la cual esten mas familiarizado.
+El Usuario podrá elegir la plataforma de video llamada con la cual esten mas familiarizado.
 
 #### **Descripción:**
 
-El Usuario tendra a su disposicion varias plataformas donde pueda el realizar videollamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) asi el podra escoger la tecnologia con el que se sienta mas comodo. (Fig-008)
+El Usuario tendrá a su disposición varias plataformas donde pueda el realizar video llamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) así el podrá escoger la tecnología con el que se sienta mas cómodo. (Fig-008)
 
 <p align="center"><img src="img/Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
@@ -326,7 +326,7 @@ respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió cor
 devolverá un mensaje de confirmación de la recuperación de contraseña.
 
 
-## Conclusion
+## Conclusión
 
 Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL"”, se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
 
