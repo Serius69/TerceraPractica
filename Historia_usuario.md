@@ -94,7 +94,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - numero de celular.
 
 
-<p align="center"><img src="img/Perfil.png" width="600"></p>
+<p align="center"><img src="img/Registro voluntarios.png" width="600"></p>
 <p align="center">Fig-1</p>
 
 
@@ -129,7 +129,7 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 #### **Descripción:**
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
 
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/Perfil.png" width="600"></p>
 <p align="center">Fig-1</p>
 
 ### **05. Edicion de Perfil del Cliente**
