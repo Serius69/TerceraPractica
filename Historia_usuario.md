@@ -89,6 +89,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - Numero de emergencia.
 
 <p align="center"><img src="img/Perfil.png" width="700"></p>
+
 ### **04. Visualización del perfil del cliente**
 
 **Número:** 004      **Usuario:**
