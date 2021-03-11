@@ -263,6 +263,59 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 
 #### **Descripción:**
 
+### **010.  Creación de la cuenta del administrador**
+
+**Número:** 010      **Usuario:**
+
+**Nombre de la historia: Creación de la cuenta del administrador**
+
+**Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Alta**
+
+**Programador responsable:**
+
+**Validación:  Solo el administrador principal puede registrar a un nuevo administrador para lograr
+apoyar el sistema, los características que el usuario debe llenar en el sistema son:
+
+- Nombre de Usuario.
+- Correo.
+- Celular.
+- País / Ciudad.
+- Contraseña.
+- Pregunta frecuente y respuesta**
+<p align="center"><img src="" width="600"></p>
+<p align="center">Fig-10 “Creación de la cuenta del administrador”.
+</p>
+
+#### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
+
+### **012.  Recuperación de contraseña ** 
+
+**Número:** 012      **Usuario:**
+
+**Nombre de la historia: Recuperar contraseña**
+
+**Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Medio**
+
+**Programador responsable:**
+
+**Validación: Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio
+de sesión o cuando se equivoque tres veces al momento de realizar este último..
+Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña.
+La contraseña tendrá que tener el mismo formato que al crear una cuenta.
+Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso.**
+
+
+#### **Descripción:  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de
+seguridad.**
+
+<p align="center"><img src="" width="600"></p>
+<p align="center">Fig-1 </p>
+
+Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
+página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
+respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió correcto el sistema le
+devolverá un mensaje de confirmación de la recuperación de contraseña.
+
 
 ## Conclusion
 
