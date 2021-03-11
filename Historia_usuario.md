@@ -45,7 +45,9 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 #### **Descripción:**
 El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio de sesion para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contrasenia, si el usuario no cuenta con una cuenta registrada debe de registrarse.
 
-<p align="center"><img src="img/login.png" width="700"></p>
+
+<p align="center"><img src="img/login.png" width="600"></p>
+
 
 **### 02.  Registro al sistema como cliente**
 
@@ -65,7 +67,10 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 - Correo.
 - Contraseña.
 
-<p align="center"><img src="img/Registro.png" width="700"></p>
+
+<p align="center"><img src="img/Registro.png" width="600"></p>
+
+
 ### **03. Registro de usuario como "voluntario"**
 
 **Numero:** 003 **Usuario:** Voluntarios
@@ -88,7 +93,9 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 - numero de celular.
 - Numero de emergencia.
 
-<p align="center"><img src="img/Perfil.png" width="700"></p>
+
+<p align="center"><img src="img/Perfil.png" width="600"></p>
+
 
 ### **04. Visualización del perfil del cliente**
 
@@ -121,6 +128,7 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 #### **Descripción:**
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
 
+<p align="center"><img src="img/Perfil.png" width="600"></p>
 
 ### **05. Edicion de Perfil del Cliente**
 
