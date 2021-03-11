@@ -128,10 +128,10 @@ En la parte de mascotas tiene una descripción detallada de las mascotas que tie
 
 
 #### **Descripción:**
-El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene.
+El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene(Fig-004).
 
 <p align="center"><img src="img/Perfil.png" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-004</p>
 
 ### **05. Edicion de Perfil del Cliente**
 
@@ -158,10 +158,10 @@ Finalmente la parte de actualizacion de las mascotas registradas el usuario podr
 - Edad de la mascota.
 
 #### **Descripción:**
-El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva.
+El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva (Fig-005).
 
 <p align="center"><img src="" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-005</p>
 
 ### **06. Visualización del perfil de clinica**
 
@@ -189,10 +189,10 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 - Una calificación justificada de la clínica
 
 #### **Descripcion:**
-Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma.
+Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma(Fig-006).
 
 <p align="center"><img src="img/Vista Clinica.png" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-006</p>
 
 ### **07. Visualización de la pantalla principal"**
 
@@ -211,10 +211,10 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 **Validación:** *Se deberá visualizar la información necesaria de la "empresa"* 
 
 #### **Descripcion:**
-Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la "empresa".
+Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la "empresa"(Fig-007).
 
 <p align="center"><img src="" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-007</p>
 
 ### **008. Visualizacion de plataformas de videollamada**
 
@@ -234,7 +234,7 @@ El Usuario podra elegir la plataforma de videollamada con la cual esten mas fami
 
 El Usuario tendra a su disposicion varias plataformas donde pueda el realizar videollamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) asi el podra escoger la tecnologia con el que se sienta mas comodo. (Fig-008)
 
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
 ### **009.**
@@ -249,7 +249,7 @@ El Usuario tendra a su disposicion varias plataformas donde pueda el realizar vi
 
 **Validación:**
 <p align="center"><img src="" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-009</p>
 
 #### **Descripción:**
 
@@ -265,7 +265,7 @@ El Usuario tendra a su disposicion varias plataformas donde pueda el realizar vi
 
 **Validación:**
 <p align="center"><img src="" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-010</p>
 
 #### **Descripción:**
 
@@ -289,7 +289,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - Contraseña.
 - Pregunta frecuente y respuesta**
 <p align="center"><img src="img/Creacion admin.png" width="600"></p>
-<p align="center">Fig-10 “Creación de la cuenta del administrador”.
+<p align="center">Fig-011 “Creación de la cuenta del administrador”.
 </p>
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
@@ -315,7 +315,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 seguridad.**
 
 <p align="center"><img src="img/Recuperacion de contrasenia.png" width="600"></p>
-<p align="center">Fig-1 </p>
+<p align="center">Fig-012 </p>
 
 Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
 página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
