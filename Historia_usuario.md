@@ -333,6 +333,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - Contraseña.
 - Pregunta frecuente y respuesta**
 <p align="center"><img src="img/011Creacion admin.png" width="600"></p>
+
 <<<<<<< HEAD
 <p align="center">Fig-011 “Creación de la cuenta del administrador”.
 
@@ -383,19 +384,18 @@ página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez 
 respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió correcto el sistema le
 devolverá un mensaje de confirmación de la recuperación de contraseña.
 
-<<<<<<< HEAD
 
-## Conclusión
-=======
+
+## **Conclusión**
+
 ## Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
 ---
-## **Conclusión**
->>>>>>> 9cae6026d67cec8f8c971cb8664aa7e6fabae236
 
-Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL"”, se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
+
+Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL", se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
 
 Cada proceso fue detallado y descrito a lo largo del documento para que sea entendible para cualquier individuo. No obstante, es necesario aclarar que hay algunos procesos y funciones que serán externos en la primera versión del sistema.
 
