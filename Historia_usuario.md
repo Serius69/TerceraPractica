@@ -274,48 +274,10 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 <p align="center"><img src="img/vid.png" width="600"></p>
 <p align="center">P-008</p>
 
-### **009.**
-
-**Número:** 009      **Usuario:**
-
-**Nombre de la historia:**
-
-**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
-
-**Programador responsable:**
-
-**Validación:**
-<p align="center"><img src="" width="600"></p>
-<p align="center">Fig-009</p>
-
-#### **Descripción:**
-
-### **010.**
-
-**Número:** 010      **Usuario:**
-
-**Nombre de la historia:**
-
-**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
-
-**Programador responsable:** 
-
-**Validación:**
-<p align="center"><img src="" width="600"></p>
-<p align="center">Fig-010</p>
-
-#### **Descripción:**
-
-### **011.  Creación de la cuenta del administrador**
-=======
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
-
----
 ### **009.  Creación de la cuenta del administrador**
 >>>>>>> 9cae6026d67cec8f8c971cb8664aa7e6fabae236
 
-**Número:** 011      **Usuario:**
+**Número:** 009     **Usuario:**
 
 **Nombre de la historia: Creación de la cuenta del administrador**
 
@@ -335,20 +297,20 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 <p align="center"><img src="img/011Creacion admin.png" width="600"></p>
 
 
-<p align="center">Fig-011 “Creación de la cuenta del administrador”.
+<p align="center">Fig-009 “Creación de la cuenta del administrador”.
 
 ## Proceso
 <p align="center"><img src="img/reg.png" width="600"></p>
-<p align="center">P-011</p>
+<p align="center">P-009</p>
 
 </p>
 
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
 
-### **012.  Recuperación de contraseña ** 
+### **010.  Recuperación de contraseña ** 
 
-**Número:** 012      **Usuario:**
+**Número:** 010      **Usuario:**
 
 **Nombre de la historia: Recuperar contraseña**
 
@@ -367,11 +329,11 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 seguridad.**
 
 <p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
-<p align="center">Fig-012 </p>
+<p align="center">Fig-010 </p>
 
 ## Proceso
 <p align="center"><img src="img/cont.png" width="600"></p>
-<p align="center">P-012</p>
+<p align="center">P-010</p>
 
 Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
 página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
@@ -380,11 +342,6 @@ devolverá un mensaje de confirmación de la recuperación de contraseña.
 
 
 ## **Conclusión**
-
-## Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
-
 
 
 Después de un análisis minucioso de los requerimientos necesarios para la plataforma de cuidado de mascotas "PET-ANGEL", se cumplió con el objetivo del documento, logrando identificar los requisitos indispensables para el funcionamiento idóneo de la plataforma.
