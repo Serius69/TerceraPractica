@@ -194,7 +194,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 <p align="center"><img src="img/Vista Clinica.png" width="600"></p>
 <p align="center">Fig-006</p>
 
-### **07. Visualización de la pantalla principal"**
+### **07. Visualización clinicas"**
 
 **Numero:** *007*
 
@@ -208,12 +208,15 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 
 **Programador responsable :** *Porcel Peña Jhoan*
 
-**Validación:** *Se deberá visualizar la información necesaria de la "empresa"* 
+**Validación:** *Se vera las clinicas veterinarias que se encuentran registradas en el sistema"* 
 
 #### **Descripcion:**
-Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la "empresa"(Fig-007).
+Todos los usuarios registrados en general,podrán visualizar la información de las diferentes clinicas"(Fig-007).
 
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/Clinicas menu.png" width="600"></p>
+<p align="center">Fig-007</p>
+
+<p align="center"><img src="img/Destacados.png" width="600"></p>
 <p align="center">Fig-007</p>
 
 ### **008. Visualizacion de plataformas de videollamada**
