@@ -8,6 +8,14 @@
 # Historias de Usuario
 ## Ingeniería del Software (SIS - 213)
 
+Integrantes
+
+* Sergio Troche
+* Roxana Vargas
+* Ivan Mamani
+* Jhoan Porcel
+
+
 ## INDICE GENERAL
 
 1. Introducción
@@ -25,7 +33,9 @@
   * 5.8 Visualización de plataformas de video llamada
   * 5.9 Creación de la cuenta del administrador
   * 5.10 Recuperación de contraseña
-    
+   
+   
+   
 ## INDICE DE FIGURAS
 
 * Figura 001 : inicio de sesión
@@ -39,6 +49,8 @@
 * Figura 009 : registro de administrador
 * Figura 010 : Recuperacion de contraseña
 
+
+
 ## INDICE DE PROCESOS
 
 * Proceso 001: Proceso para inicio de sesión
@@ -51,6 +63,9 @@
 * Proceso 08: Proceso para plataforma video llamada
 * Proceso 09: Proceso para registro de administrador
 * Proceso 010: Proceso para Recuperacion de contraseña
+
+
+
 
 ### TITULO DEL PROYECTO PET-ANGEL
 
