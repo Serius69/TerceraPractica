@@ -256,6 +256,7 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 **Programador responsable :** *Porcel Peña Jhoan*
 
 **Validación:** *Se deberá visualizar los datos generales de las clínicas como:* 
+
 - Nombre
 - Teléfono
 - Nombre de operadora
@@ -345,7 +346,7 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 **Programador responsable:** *Troche Mayta Sergio*
 
 **Validación:  Solo el administrador principal puede registrar a un nuevo administrador para lograr
-apoyar el sistema, los características que el usuario debe llenar en el sistema son:
+apoyar el sistema, los características que el usuario debe llenar en el sistema son:**
 
 - Nombre de Usuario.
 - Correo.
@@ -384,8 +385,7 @@ La contraseña tendrá que tener el mismo formato que al crear una cuenta.
 Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso.**
 
 
-#### **Descripción:  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de
-seguridad.**
+#### **Descripción:  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad.**
 
 <p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
 <p align="center">Fig-010 </p>
