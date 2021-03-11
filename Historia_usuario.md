@@ -38,7 +38,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 **Prioridad en el Negocio**:Medio             **Riesgo de desarrollo**: Bajo
 
-**Programador responsable:** 
+**Programador responsable:** *Troche Mayta Sergio*
 
 **Validación:**  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto :correo sin caracteres invalidos y contrasenia minima de 8 caracteres.
 
@@ -57,7 +57,7 @@ El usuario al ingresar a la pagina de PetAngel se le pedira realizar un inicio d
 
 **Prioridad en el Negocio:** Medio            **Riesgo de desarrollo:** Bajo
 
-**Programador responsable:**
+**Programador responsable:** *Troche Mayta Sergio*
 
 **Validación:** Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios.
 
@@ -105,7 +105,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 **Nombre de la historia:** Visualización del perfil del cliente
 **Prioridad en el Negocio:**  Medio           **Riesgo de desarrollo:** Bajo
 
-**Programador responsable:**
+**Programador responsable:** *Troche Mayta Sergio*
 
 **Validación:** El usuario puede observar sus datos que se registró en la plataforma, además en la parte inferior se observa el historial de consultas que tiene, por otra parte, se observa algunas opciones que puede editar y/o agregar los datos para hacer mas completo su perfil:
 - Nombre de Usuario.
@@ -140,7 +140,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 
 **Prioridad en el Negocio:** Alta            **Riesgo de desarrollo:** Alta
 
-**Programador responsable:** 
+**Programador responsable:** *Troche Mayta Sergio*
 
 **Validación:** En la figura se puede observar los campos que puede editar el usuario, como ser las
 opciones de la edición de datos, que son:
@@ -190,7 +190,7 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 #### **Descripcion:**
 Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma.
 
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/Vista Clinica.png" width="600"></p>
 <p align="center">Fig-1</p>
 
 ### **07. Visualización de la pantalla principal"**
@@ -260,7 +260,7 @@ El Usuario tendra a su disposicion varias plataformas donde pueda el realizar vi
 
 **Prioridad en el Negocio:**             **Riesgo de desarrollo:**
 
-**Programador responsable:**
+**Programador responsable:** 
 
 **Validación:**
 <p align="center"><img src="" width="600"></p>
@@ -276,7 +276,7 @@ El Usuario tendra a su disposicion varias plataformas donde pueda el realizar vi
 
 **Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Alta**
 
-**Programador responsable:**
+**Programador responsable:** *Troche Mayta Sergio*
 
 **Validación:  Solo el administrador principal puede registrar a un nuevo administrador para lograr
 apoyar el sistema, los características que el usuario debe llenar en el sistema son:
@@ -287,7 +287,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - País / Ciudad.
 - Contraseña.
 - Pregunta frecuente y respuesta**
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/Creacion admin.png" width="600"></p>
 <p align="center">Fig-10 “Creación de la cuenta del administrador”.
 </p>
 
@@ -301,8 +301,8 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 
 **Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Medio**
 
-**Programador responsable:**
-
+**Programador responsable:** *Troche Mayta Sergio*
+ 
 **Validación: Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio
 de sesión o cuando se equivoque tres veces al momento de realizar este último..
 Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña.
