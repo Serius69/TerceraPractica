@@ -156,26 +156,17 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 ### 07. Visualización de la pantalla principal"
 
 Numero:*007*
-Usuario: clientes nivel clinica
-Nombre de la historia: *Visualización del perfil de clinica*
+Usuario: clientes en general
+Nombre de la historia: *Visualización de la pantalla principal*
 Prioridad en el Negocio: *Medio*
 Riesgo de desarrollo : *bajo*
 Programador responsable : *Porcel Peña Jhoan*
-Validación : *Se deberá visualizar los datos generales de las clinicas como:* 
-- Nombre
-- Teléfono
-- Nombre de operadora
-- ubicación de la clínica
-- Tipos de atención
-- Horario de atención
-- Veterinarios a cargo segun el horario.
-- Sección de video llamadas o llamadas de emergencia
-- Sección de mascotas atendidas
-- Una calificación justificada de la clínica
+Validación : *Se deberá visualizar la información necesaria de la "empresa"* 
+
 
 
 #### Descripcion:
-Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clinica veterinaria, la cual estará en su perfil de la misma.
+Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la "empresa".
 
 
 ### 06. 
