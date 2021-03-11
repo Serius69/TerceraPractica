@@ -270,6 +270,10 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 <p align="center"><img src="img/008Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
+## Proceso
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
+
 ---
 ### **009.  Creación de la cuenta del administrador**
 
@@ -291,8 +295,11 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - Contraseña.
 - Pregunta frecuente y respuesta**
 <p align="center"><img src="img/011Creacion admin.png" width="600"></p>
-<p align="center">Fig-009 “Creación de la cuenta del administrador”.
-</p>
+<p align="center">Fig-009 “Creación de la cuenta del administrador”.</p>
+
+## Proceso
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
 
@@ -324,6 +331,10 @@ Para el proceso de recuperar contraseña se puede entrar de dos formas. Una dire
 página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
 respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió correcto el sistema le
 devolverá un mensaje de confirmación de la recuperación de contraseña.
+
+## Proceso
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
 
 ---
 ## **Conclusión**
