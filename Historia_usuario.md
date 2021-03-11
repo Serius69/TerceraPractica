@@ -196,6 +196,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 ### **07. Visualización de la pantalla principal"**
 
 **Numero:** *007*
+
 **Usuario:** clientes en general
 
 **Nombre de la historia:** *Visualización de la pantalla principal*
@@ -214,22 +215,26 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 <p align="center"><img src="" width="600"></p>
 <p align="center">Fig-1</p>
 
-### **008.**
+### **008. Visualizacion de plataformas de videollamada**
 
-**Número:** 008      **Usuario:**
+**Número:** 008      **Usuario:** Paciente
 
-**Nombre de la historia:**
+**Nombre de la historia:** Visualizacion de plataformas de videollamada
 
-**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
+**Prioridad en el Negocio:**  Media          **Riesgo de desarrollo:** Bajo
 
 **Programador responsable:**
 
-**Validación:**
+**Validación:** 
+
+El Usuario podra elegir la plataforma de videollamada con la cual esten mas familiarizado.
 
 #### **Descripción:**
 
+El Usuario tendra a su disposicion varias plataformas donde pueda el realizar videollamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) asi el podra escoger la tecnologia con el que se sienta mas comodo. (Fig-008)
+
 <p align="center"><img src="" width="600"></p>
-<p align="center">Fig-1</p>
+<p align="center">Fig-008</p>
 
 ### **009.**
 
@@ -263,9 +268,9 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 
 #### **Descripción:**
 
-### **010.  Creación de la cuenta del administrador**
+### **011.  Creación de la cuenta del administrador**
 
-**Número:** 010      **Usuario:**
+**Número:** 011      **Usuario:**
 
 **Nombre de la historia: Creación de la cuenta del administrador**
 
