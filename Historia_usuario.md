@@ -160,7 +160,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 
 **Validación:** En la figura se puede observar los campos que puede editar el usuario, como ser las
 opciones de la edición de datos, que son:
-- Nombre del usuario.
+- Nombre del usuario.P
 - Correo.
 - Ciudad.
 - País.
@@ -244,7 +244,7 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 
 ## Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-002</p>
+<p align="center">P-007</p>
 
 ### **008. Visualización de plataformas de video llamada**
 
@@ -267,41 +267,10 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 <p align="center"><img src="img/008Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
-### **009.**
 
-**Número:** 009      **Usuario:**
+### **009.  Creación de la cuenta del administrador**
 
-**Nombre de la historia:**
-
-**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
-
-**Programador responsable:**
-
-**Validación:**
-<p align="center"><img src="" width="600"></p>
-<p align="center">Fig-009</p>
-
-#### **Descripción:**
-
-### **010.**
-
-**Número:** 010      **Usuario:**
-
-**Nombre de la historia:**
-
-**Prioridad en el Negocio:**             **Riesgo de desarrollo:**
-
-**Programador responsable:** 
-
-**Validación:**
-<p align="center"><img src="" width="600"></p>
-<p align="center">Fig-010</p>
-
-#### **Descripción:**
-
-### **011.  Creación de la cuenta del administrador**
-
-**Número:** 011      **Usuario:**
+**Número:** 009     **Usuario:**admin
 
 **Nombre de la historia: Creación de la cuenta del administrador**
 
@@ -319,14 +288,14 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 - Contraseña.
 - Pregunta frecuente y respuesta**
 <p align="center"><img src="img/011Creacion admin.png" width="600"></p>
-<p align="center">Fig-011 “Creación de la cuenta del administrador”.
+<p align="center">Fig-009 “Creación de la cuenta del administrador”.
 </p>
 
 #### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
 
 ### **012.  Recuperación de contraseña ** 
 
-**Número:** 012      **Usuario:**
+**Número:** 010      **Usuario:**
 
 **Nombre de la historia: Recuperar contraseña**
 
@@ -345,7 +314,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 seguridad.**
 
 <p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
-<p align="center">Fig-012 </p>
+<p align="center">Fig-010 </p>
 
 Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
 página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
