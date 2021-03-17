@@ -23,24 +23,24 @@ Integrantes
 3. A quien está dirigido
 4. Niveles de prioridad
 5. Historias de usuario
-           * 5.1 Visualización de la pantalla de inicio
-           * 5.2 Ingreso al sistema como usuario/cliente
-           * 5.3 Recuperación de contraseña
-           * 5.4 Registro al sistema como cliente
-  	            * 5.4.1 Registro de mascotas
-           * 5.5 Visualización del perfil cliente  
-           * 5.6 Edición del perfil cliente
-           * 5.7 Registro de usuario como "voluntario"
-           * 5.8 Registro de usuario como veterinaria
-           * 5.9 Visualización de clínicas
-           * 5.10 Visualización del perfil de la clínica
-           * 5.11 Solicitud de citas médicas en veterinaria
-           * 5.12 Visualización de citas médicas aceptadas o rechazadas
-           * 5.13 Solicitud de cuidado de mascotas
-  	            * 5.13.1 Visualización de voluntarios cercanos
-           * 5.14 Solicitud de citas médicas de emergencia por video llamada 
-           * 5.15 Visualización de plataformas de video llamada para emergencias
-           * 5.16 Creación de cuenta administrador
+  * 5.1 Visualización de la pantalla de inicio
+  * 5.2 Ingreso al sistema como usuario/cliente
+  * 5.3 Recuperación de contraseña
+  * 5.4 Registro al sistema como cliente
+  	* 5.4.1 Registro de mascotas
+  * 5.5 Visualización del perfil cliente  
+  * 5.6 Edición del perfil cliente
+  * 5.7 Registro de usuario como "voluntario"
+  * 5.8 Registro de usuario como veterinaria
+  * 5.9 Visualización de clínicas
+  * 5.10 Visualización del perfil de la clínica
+  * 5.11 Solicitud de citas médicas en veterinaria
+  * 5.12 Visualización de citas médicas aceptadas o rechazadas
+  * 5.13 Solicitud de cuidado de mascotas
+	* 5.13.1 Visualización de voluntarios cercanos
+  * 5.14 Solicitud de citas médicas de emergencia por video llamada 
+  * 5.15 Visualización de plataformas de video llamada para emergencias
+  * 5.16 Creación de cuenta administrador
 
       
 ## INDICE DE FIGURAS
