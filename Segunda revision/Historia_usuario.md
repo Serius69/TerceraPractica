@@ -41,7 +41,7 @@ Integrantes
   * 5.14 Solicitud de citas médicas de emergencia por video llamada 
   * 5.15 Visualización de plataformas de video llamada para emergencias
 
-      
+   
 ## INDICE DE FIGURAS
 
 * Figura 001 : inicio de sesión
