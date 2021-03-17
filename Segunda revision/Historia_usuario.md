@@ -304,7 +304,41 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
-### **008. Visualización de plataformas de video llamada**
+
+### **08. Suscripcion a la pagina**
+
+**Numero:** 008
+
+**Usuario:** Clientes
+
+**Nombre de la historia:** Visualización de la pantalla principal
+
+**Prioridad en el Negocio:** Alto
+
+**Riesgo de desarrollo :** Medio
+
+**Programador responsable :** Troche Mayta Sergio Denis
+
+**Validación:** Se vera las clinicas veterinarias que se encuentran registradas en el sistema
+
+#### **Descripción:**
+Para la suscripcion a la pagina se tiene solamente un metodo y es por el pago por transaccion bancaria, el cleinte presiona en
+
+<p align="center"><img src="" width="600"></p>
+<p align="center">Fig-007</p>
+
+<p align="center"><img src="" width="600"></p>
+<p align="center">Fig-007</p>
+
+#### Proceso
+<p align="center"><img src="" width="600"></p>
+<p align="center">P-007</p>
+
+
+
+
+
+### **009. Visualización de plataformas de video llamada**
 
 **Número:** 008      **Usuario:** Paciente
 
