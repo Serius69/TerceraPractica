@@ -40,7 +40,6 @@ Integrantes
 	* 5.13.1 Visualización de voluntarios cercanos
   * 5.14 Solicitud de citas médicas de emergencia por video llamada 
   * 5.15 Visualización de plataformas de video llamada para emergencias
-  * 5.16 Creación de cuenta administrador
 
       
 ## INDICE DE FIGURAS
