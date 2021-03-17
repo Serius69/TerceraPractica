@@ -32,19 +32,21 @@ Integrantes
   * 5.6 Edición del perfil cliente
   * 5.7 Registro de usuario como "voluntario"
   * 5.8 Registro de usuario como veterinaria
-  * 5.9 Visualización de clínicas
-  * 5.10 Visualización del perfil de la clínica
-  * 5.11 Solicitud de citas médicas en veterinaria
-  * 5.12 Visualización de citas médicas aceptadas o rechazadas
-  * 5.13 Solicitud de cuidado de mascotas
-	* 5.13.1 Visualización de voluntarios cercanos
-  * 5.14 Solicitud de citas médicas de emergencia por video llamada 
-  * 5.15 Visualización de plataformas de video llamada para emergencias
+  * 5.9 Visualización del perfil veterinaria
+  * 5.10 Visualización de clínicas
+  * 5.11 Visualización del perfil de la clínica
+  * 5.12 Solicitud de citas médicas en veterinaria
+  * 5.13 Visualización de citas médicas aceptadas o rechazadas
+  * 5.14 Solicitud de cuidado de mascotas
+	* 5.14.1 Visualización de voluntarios cercanos
+  * 5.15 Solicitud de citas médicas de emergencia por video llamada 
+  * 5.16 Visualización de plataformas de video llamada para emergencias
 
    
 ## INDICE DE FIGURAS
 
-* Figura 001 : inicio de sesión
+* Figura 001 : Pantalla de inicio
+* Figura 001 : Inicio de sesión
 * Figura 002 : Registro de cuenta
 * Figura 003 : Registro de cuenta nivel voluntario
 * Figura 004 : Modificacion de perfil 
