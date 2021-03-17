@@ -66,10 +66,7 @@ Integrantes
 
 
 
-
-### TITULO DEL PROYECTO PET-ANGEL
-
-
+# TITULO DEL PROYECTO PET-ANGEL
 
 ## Introducción
 En el presente documento se puede observar las historias de usuario para la plataforma de mascotas “PET-ANGELS”. Una historia de usuario es una representación de los requisitos que se precisan para la elaboración de un sistema, es un lenguaje que permite a cualquier individuo entender con facilidad sin tener conocimiento previo en informática o programación.
@@ -108,7 +105,7 @@ El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio
 <p align="center"><img src="img/001login.png" width="600"></p>
 <p align="center">Fig-001</p>
 
-## Proceso
+#### Proceso
 
 <p align="center"><img src="img/sis.png" width="600"></p>
 <p align="center">P-001</p>
@@ -135,7 +132,7 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 <p align="center"><img src="img/002Registro.png" width="600"></p>
 <p align="center">Fig-002</p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-002</p>
 
@@ -165,7 +162,7 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 <p align="center"><img src="img/003Registro voluntarios.png" width="600"></p>
 <p align="center">Fig-003</p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-003</p>
 
@@ -204,7 +201,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 <p align="center"><img src="img/004Perfil.png" width="600"></p>
 <p align="center">Fig-004</p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/usu.png" width="600"></p>
 <p align="center">P-004</p>
 
@@ -238,7 +235,7 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 <p align="center"><img src="img/Perfil (Editar Usuario).png" width="600"></p>
 <p align="center">Fig-005</p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/edit.png" width="600"></p>
 <p align="center">P-005</p>
 
@@ -274,7 +271,7 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 <p align="center"><img src="img/006Vista Clinica.png" width="600"></p>
 <p align="center">Fig-006</p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/clin.png" width="600"></p>
 <p align="center">P-006</p>
 
@@ -303,7 +300,7 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 <p align="center"><img src="img/0072Destacados.png" width="600"></p>
 <p align="center">Fig-007</p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
@@ -328,7 +325,7 @@ El Usuario tendrá a su disposición varias plataformas donde pueda el realizar 
 <p align="center"><img src="img/008Videollamada.png" width="600"></p>
 <p align="center">Fig-008</p>
 
-## Proceso
+#### Proceso
 
 <p align="center"><img src="img/vid.png" width="600"></p>
 <p align="center">P-008</p>
@@ -359,7 +356,7 @@ apoyar el sistema, los características que el usuario debe llenar en el sistema
 
 <p align="center">Fig-009 “Creación de la cuenta del administrador”.
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-009</p>
 
@@ -390,7 +387,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 <p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
 <p align="center">Fig-010 </p>
 
-## Proceso
+#### Proceso
 <p align="center"><img src="img/cont.png" width="600"></p>
 <p align="center">P-010</p>
 
