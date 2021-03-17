@@ -92,9 +92,45 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 3. Bajo: Afecta al núcleo del sistema de forma externa, sin embargo es prescindible.
 
 ## **Historias de Usuario**
+
 ### **01. Ingreso al sistema como usuario/cliente**
 
 **Número**: 001      **Usuario**: Clientes
+
+**Nombre de la historia**: Pagina Principal de pagina
+
+**Prioridad en el Negocio**:Bajo           **Riesgo de desarrollo**: Bajo
+
+**Programador responsable:** *Troche Mayta Sergio*
+
+**Validación:**  El Usuario podra ver la informacion basica de la Pagina(Fig-001).
+
+
+<p align="center"><img src="img/.png" width="600"></p>
+<p align="center">Fig-001</p>
+
+#### **Descripción:**
+
+
+### **02. Seleccion de Crear perfil de Cliente o Voluntario*
+
+**Número**: 002      **Usuario**: Clientes/Voluntarios
+
+**Nombre de la historia**: Seleccion de Crear perfil de Usuario o Voluntario
+
+**Prioridad en el Negocio**:Medio             **Riesgo de desarrollo**: Bajo
+
+**Programador responsable:** *Troche Mayta Sergio*
+
+**Validación:** El Usuario o Voluntario tendra que seleccionar que tipo de perfil quiere crearse si de Usuario o de Voluntario.
+#### **Descripción:**
+
+<p align="center"><img src="img.png" width="600"></p>
+<p align="center">Fig-001</p>
+
+### **03. Ingreso al sistema como usuario/cliente**
+
+**Número**: 003      **Usuario**: Clientes
 
 **Nombre de la historia**: Ingreso al sistema como usuario/cliente
 
@@ -108,17 +144,17 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe de registrarse.
 
 
-<p align="center"><img src="img/001login.png" width="600"></p>
+<p align="center"><img src="img.png" width="600"></p>
 <p align="center">Fig-001</p>
 
 #### Proceso
 
-<p align="center"><img src="img/sis.png" width="600"></p>
+<p align="center"><img src="img/png" width="600"></p>
 <p align="center">P-001</p>
 
-### **02.  Registro al sistema como cliente**
+### **03.  Registro al sistema como cliente**
 
-**Número:** 002   **Usuario:** Clientes 
+**Número:** 003   **Usuario:** Clientes 
 
 **Nombre de la historia:** Registro al sistema como cliente
 
@@ -143,9 +179,9 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 <p align="center">P-002</p>
 
 
-### **03. Registro de usuario como "voluntario"**
+### **04. Registro de usuario como "voluntario"**
 
-**Numero:** 003 **Usuario:** Voluntarios
+**Numero:** 004 **Usuario:** Voluntarios
 
 **Nombre de la historia:** *Registro en el sistema como voluntario*
 
@@ -447,3 +483,23 @@ Cada proceso fue detallado y descrito a lo largo del documento para que sea ente
 Cabe recalcar que si bien se identificaron los requisitos principales, a medida que se lleva a cabo el desarrollo del sistema es inevitable que vayan apareciendo más requisitos, los cuales serán documentados paralelamente.
 
 
+### **02. Ingreso al sistema como usuario/cliente**
+
+**Número**: 002      **Usuario**: Clientes
+
+**Nombre de la historia**: Ingreso al sistema como usuario/cliente
+
+**Prioridad en el Negocio**:Medio             **Riesgo de desarrollo**: Bajo
+
+**Programador responsable:** *Troche Mayta Sergio*
+
+**Validación:**
+#### **Descripción:**
+
+<p align="center"><img src="img.png" width="600"></p>
+<p align="center">Fig-001</p>
+
+#### Proceso
+
+<p align="center"><img src="img/png" width="600"></p>
+<p align="center">P-001</p>
