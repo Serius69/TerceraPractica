@@ -37,7 +37,7 @@ Integrantes
   * 5.11 Solicitud de citas médicas en veterinaria
   * 5.12 Visualización de citas médicas aceptadas o rechazadas
   * 5.13 Solicitud de cuidado de mascotas
-        * 5.13.1 Visualización de voluntarios cercanos
+  	* 5.13.1 Visualización de voluntarios cercanos
   * 5.14 Solicitud de citas médicas de emergencia por video llamada 
   * 5.15 Visualización de plataformas de video llamada para emergencias
   * 5.16 Creación de cuenta administrador
