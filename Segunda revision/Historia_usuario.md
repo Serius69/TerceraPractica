@@ -101,23 +101,26 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de Usuario**
 
+●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+
 ### **01. Visualización pantalla inicial**
 
-**Número**: 001      **Usuario**: Clientes/Médicos/Voluntarios
+**Número**: 001      **Usuario**: Todos
 
-**Nombre de la historia**: Vista inicial de la página web
+**Nombre de la historia**: Vista inicial de la página web "Pet-Angel"
 
-**Prioridad en el Negocio**: Medio                          **Riesgo de desarrollo**: Bajo
+**Prioridad en el Negocio**: Alto                          **Riesgo de desarrollo**: Bajo
 
 **Programador responsable:** *Roxana Vargas Telleria*
 
-**Validación:**  El Usuario podrá ver la información básica de la página pero sin toda la información completa, además de que podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
+**Validación:**  El usuario solo podrá ver la información básica de la página pero sin toda la información completa, además de que podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
 
 <p align="center"><img src="mock1/.png" width="600"></p>
 <p align="center">Fig-001</p>
 
 #### **Descripción:**
 
+●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
 ### **02. Ingreso al sistema como usuario/cliente**
 
