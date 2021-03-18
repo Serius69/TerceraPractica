@@ -326,7 +326,7 @@ El presente registro lo harán los usuarios que deseen ser voluntarios, con los 
 <p align="center">Fig-003</p>
 
 #### Proceso
-<p align="center"><img src="0007.png" width="600"></p>
+<p align="center"><img src="img/0007.png" width="600"></p>
 <p align="center">P-007</p>
 
 -----------------------------------------------------------------------------
@@ -361,7 +361,7 @@ Ademas deberan ingresar su tarjeta de credito o debito para que se pueda realiza
 <p align="center">Fig-003</p>
 
 #### Proceso
-<p align="center"><img src="0008.png" width="600"></p>
+<p align="center"><img src="img/0008.png" width="600"></p>
 <p align="center">P-008</p>
 
 -----------------------------------------------------------------------------
