@@ -101,7 +101,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de Usuario**
 
-●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+-----------------------------------------------------------------------------
 
 ### **01. Visualización pantalla inicial**
 
@@ -120,7 +120,7 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 #### **Descripción:**
 
-●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
+-----------------------------------------------------------------------------
 
 ### **02. Ingreso al sistema como usuario/cliente**
 
@@ -145,6 +145,7 @@ El usuario al ingresar a la página de Pet-Angel se le pedirá realizar un inici
 <p align="center"><img src="img/png" width="600"></p>
 <p align="center">P-001</p>
 
+-----------------------------------------------------------------------------
 
 ### **03.  Recuperación de contraseña ** 
 
@@ -173,6 +174,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 <p align="center"><img src="img/cont.png" width="600"></p>
 <p align="center">P-010</p>
 
+-----------------------------------------------------------------------------
 
 ### **04.  Registro al sistema como cliente**
 
@@ -201,6 +203,7 @@ Una vez validado el correo electrónico ingresado aparecerá un formulario para 
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-002</p>
 
+-----------------------------------------------------------------------------
 
 ### **05. Visualización del perfil del cliente**
 
@@ -240,6 +243,7 @@ Finalmente, los campos más importantes son los datos del usuario y las consulta
 <p align="center"><img src="img/usu.png" width="600"></p>
 <p align="center">P-004</p>
 
+-----------------------------------------------------------------------------
 
 ### **06. Edición de Perfil del Cliente**
 
@@ -279,6 +283,7 @@ Puede editar datos como ser el nombre del usuario, la dirección actual del usua
 <p align="center"><img src="img/edit.png" width="600"></p>
 <p align="center">P-005</p>
 
+-----------------------------------------------------------------------------
 
 ### **07. Registro de usuario como "voluntario"**
 
@@ -308,6 +313,7 @@ El presente registro lo harán los usuarios que deseen ser voluntarios, con los 
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-003</p>
 
+-----------------------------------------------------------------------------
 
 ### **08. Registro de usuario como veterinaria**
 
@@ -341,6 +347,7 @@ El presente registro lo harán los usuarios de clínicas veterinarias que deseen
 <p align="center"><img src="img/reg.png" width="600"></p>
 <p align="center">P-003</p>
 
+-----------------------------------------------------------------------------
 
 ### **09. Visualización del perfil veterinaria**
 
@@ -375,6 +382,7 @@ Todos los usuarios registrados en general, podrán visualizar la información pr
 <p align="center"><img src="img/clin.png" width="600"></p>
 <p align="center">P-006</p>
 
+-----------------------------------------------------------------------------
 
 ### **10. Visualización de clínicas**
 
@@ -401,6 +409,7 @@ Todos los usuarios registrados en general, podrán visualizar la información de
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
+-----------------------------------------------------------------------------
 
 ### **11. Solicitud de cita médica en veterinaria**
 
@@ -426,6 +435,7 @@ Todos los usuarios registrados en general, podrán realizar una solicitud de cit
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
+-----------------------------------------------------------------------------
 
 ### **12. Visualización de citas médicas aceptadas o rechazadas**
 
@@ -449,6 +459,7 @@ Todos los usuarios registrados en general, podrán visualizar si sus citas médi
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
+-----------------------------------------------------------------------------
 
 ### **13. Solicitud de cuidado de mascotas**
 
@@ -473,6 +484,7 @@ Todos los usuarios registrados en general, podrán realizar una solicitud de cui
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
+-----------------------------------------------------------------------------
 
 ### **14. Solicitud de cita médica virtual de emergencia**
 
@@ -497,6 +509,7 @@ Todos los usuarios registrados en general, podrán realizar una solicitud de cit
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
+-----------------------------------------------------------------------------
 
 ### **15. Visualización de plataformas de video llamada**
 
@@ -521,7 +534,7 @@ Todos los usuarios que hayan solicitado una cita médica virtual de emergencia p
 <p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
-
+-----------------------------------------------------------------------------
 
 ## **Conclusión**
 
