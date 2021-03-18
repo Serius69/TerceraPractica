@@ -125,7 +125,7 @@ Tambien podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
 
 #### **Proceso:**
 
-<p align="center"><img src="img/png" width="600"></p>
+<p align="center"><img src="img/0001.png" width="600"></p>
 <p align="center">P-001</p>
 
 -----------------------------------------------------------------------------
@@ -326,8 +326,8 @@ El presente registro lo harán los usuarios que deseen ser voluntarios, con los 
 <p align="center">Fig-003</p>
 
 #### Proceso
-<p align="center"><img src="img/reg.png" width="600"></p>
-<p align="center">P-003</p>
+<p align="center"><img src="0007.png" width="600"></p>
+<p align="center">P-007</p>
 
 -----------------------------------------------------------------------------
 
@@ -361,8 +361,8 @@ Ademas deberan ingresar su tarjeta de credito o debito para que se pueda realiza
 <p align="center">Fig-003</p>
 
 #### Proceso
-<p align="center"><img src="img/reg.png" width="600"></p>
-<p align="center">P-003</p>
+<p align="center"><img src="0008.png" width="600"></p>
+<p align="center">P-008</p>
 
 -----------------------------------------------------------------------------
 
