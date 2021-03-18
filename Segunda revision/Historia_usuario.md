@@ -148,11 +148,6 @@ El usuario al ingresar a la página de Pet-Angel se le pedirá realizar un inici
 <p align="center"><img src="img/5.2.PNG" width="600"></p>
 <p align="center">Fig-001</p>
 
-#### Proceso
-
-<p align="center"><img src="img/png" width="600"></p>
-<p align="center">P-001</p>
-
 -----------------------------------------------------------------------------
 
 ### **03.  Recuperación de contraseña ** 
@@ -177,11 +172,6 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 <p align="center"><img src="img/5.3.PNG" width="600"></p>
 <p align="center">Fig-010 </p>
 
-#### Proceso
-
-<p align="center"><img src="img/cont.png" width="600"></p>
-<p align="center">P-010</p>
-
 -----------------------------------------------------------------------------
 
 ### **04.  Registro al sistema como cliente**
@@ -205,14 +195,10 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 Una vez validado el correo electrónico ingresado aparecerá un formulario para que pueda registrar a sus mascotas.
 
 <p align="center"><img src="img/5.4.PNG" width="600"></p>
-<p align="center">Fig-002</p>
+<p align="center">Fig-004</p>
 
 <p align="center"><img src="img/5.4.1.PNG" width="600"></p>
-<p align="center">Fig-002</p>
-
-#### Proceso
-<p align="center"><img src="img/reg.png" width="600"></p>
-<p align="center">P-002</p>
+<p align="center">Fig-004.1</p>
 
 -----------------------------------------------------------------------------
 
@@ -247,11 +233,7 @@ El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma 
 Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene (Fig-005).
 
 <p align="center"><img src="img/5.5.PNG" width="600"></p>
-<p align="center">Fig-004</p>
-
-#### Proceso
-<p align="center"><img src="img/usu.png" width="600"></p>
-<p align="center">P-004</p>
+<p align="center">Fig-005</p>
 
 -----------------------------------------------------------------------------
 
@@ -287,17 +269,13 @@ El cliente tiene registrado sus datos personales en la plataforma, los cuales pu
 Puede editar datos como ser el nombre del usuario, la dirección actual del usuario como ser el país y ciudad. También puede editar la contraseña actual con una contraseña nueva (Fig-006).
 
 <p align="center"><img src="img/5.6.PNG" width="600"></p>
-<p align="center">Fig-5.1</p>
+<p align="center">Fig-6.1</p>
 
 <p align="center"><img src="img/5.6.1.PNG" width="600"></p>
-<p align="center">Fig-5.2</p>
+<p align="center">Fig-6.2</p>
 
 <p align="center"><img src="img/5.6.2.PNG" width="600"></p>
-<p align="center">Fig-5.3</p>
-
-#### Proceso
-<p align="center"><img src="img/edit.png" width="600"></p>
-<p align="center">P-005</p>
+<p align="center">Fig-6.3</p>
 
 -----------------------------------------------------------------------------
 
@@ -393,11 +371,7 @@ Ademas deberan ingresar su tarjeta de credito o debito para que se pueda realiza
 Todos los usuarios registrados en general, podrán visualizar la información proporcionada por la clínica veterinaria, la cual estará en su perfil (Fig-009).
 
 <p align="center"><img src="img/5.9.PNG" width="600"></p>
-<p align="center">Fig-006</p>
-
-#### Proceso
-<p align="center"><img src="img/clin.png" width="600"></p>
-<p align="center">P-006</p>
+<p align="center">Fig-009</p>
 
 -----------------------------------------------------------------------------
 
@@ -417,14 +391,10 @@ Todos los usuarios registrados en general, podrán visualizar la información pr
 Todos los usuarios registrados en general, podrán visualizar la información de las diferentes clínicas"(Fig-010).
 
 <p align="center"><img src="img/5.10.PNG" width="600"></p>
-<p align="center">Fig-007</p>
+<p align="center">Fig-010</p>
 
 <p align="center"><img src="img/5.10.1.PNG" width="600"></p>
-<p align="center">Fig-007</p>
-
-#### Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center">Fig-010.1</p>
 
 -----------------------------------------------------------------------------
 
@@ -548,11 +518,7 @@ Al presionar sobre una plataforma simplemente se redireccionará a un link direc
 Todos los usuarios que hayan solicitado una cita médica virtual de emergencia podrán observar las plataformas disponibles"(Fig-007).
 
 <p align="center"><img src="img/5.14.PNG" width="600"></p>
-<p align="center">Fig-007</p>
-
-#### Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center">Fig-015</p>
 
 -----------------------------------------------------------------------------
 
