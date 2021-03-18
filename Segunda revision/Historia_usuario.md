@@ -146,7 +146,7 @@ Tambien podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
 El usuario al ingresar a la página de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la página (Fig 002) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe registrarse.
 
 <p align="center"><img src="img/5.2.PNG" width="600"></p>
-<p align="center">Fig-001</p>
+<p align="center">Fig-002</p>
 
 -----------------------------------------------------------------------------
 
