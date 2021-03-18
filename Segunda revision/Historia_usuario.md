@@ -170,7 +170,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 #### **Descripción:**  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad.
 
 <p align="center"><img src="img/5.3.PNG" width="600"></p>
-<p align="center">Fig-010 </p>
+<p align="center">Fig-003 </p>
 
 -----------------------------------------------------------------------------
 
