@@ -105,24 +105,30 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ### **01. Visualización pantalla inicial**
 
-**Número**: 001      **Usuario**: Todos
+**Número**: 001                                   **Usuario**: Todos
 
-**Nombre de la historia**: Vista inicial de la página web "Pet-Angel"
+**Nombre de la historia:** Vista inicial de la página web "Pet-Angel"
 
-**Prioridad en el Negocio**: Alto                          **Riesgo de desarrollo**: Bajo
+**Prioridad en el Negocio:** Alto                 **Riesgo de desarrollo**: Bajo
 
 **Programador responsable:** *Roxana Vargas Telleria*
 
-**Validación:**  El usuario solo podrá ver la información básica de la página pero sin toda la información completa, además de que podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
+**Validación:**  Al ingresar a la página web de Pet-Angel el usuario solo podrá ver la información básica de la página. No tendrá la información completa para que no pueda encontrar alguna veterinaria por su cuenta.
+Tambien podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
+
+#### **Descripción:**
 
 <p align="center"><img src="mock1/.png" width="600"></p>
 <p align="center">Fig-001</p>
 
-#### **Descripción:**
+#### **Proceso:**
+
+<p align="center"><img src="img/png" width="600"></p>
+<p align="center">P-001</p>
 
 -----------------------------------------------------------------------------
 
-### **02. Ingreso al sistema como usuario/cliente**
+### **02. Ingreso al sistema como cliente**
 
 **Número**: 002     **Usuario**: Clientes
 
@@ -302,7 +308,7 @@ El presente registro lo harán los usuarios que deseen ser voluntarios, con los 
 - Nombre de usuario.
 - E-mail.
 - Contraseña.
-- Numero de celular.
+- Numero de telefono
 - Dirección
 - Ubicación de su dirección en Google maps
 
@@ -339,6 +345,7 @@ El presente registro lo harán los usuarios de clínicas veterinarias que deseen
 - Especialidades
 - Tipos de servicios ofrecidos.
 - Horarios de atención
+Ademas deberan ingresar su tarjeta de credito o debito para que se pueda realizar el cobro mensual.
 
 <p align="center"><img src="img/003Registro veterinarias.png" width="600"></p>
 <p align="center">Fig-003</p>
@@ -428,8 +435,8 @@ La solicitud debe ser respondida y confirmada por la clínica veterinaria y apen
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán realizar una solicitud de cita"(Fig-011).
 
-<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
-<p align="center">Fig-007</p>
+<p align="center"><img src="img/0011.png" width="600"></p>
+<p align="center">Fig-011</p>
 
 #### Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
@@ -452,8 +459,8 @@ Todos los usuarios registrados en general, podrán realizar una solicitud de cit
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán visualizar si sus citas médicas fueron aceptadas o rechazadas por la clínica"(Fig-012).
 
-<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
-<p align="center">Fig-007</p>
+<p align="center"><img src="img/0012.png" width="600"></p>
+<p align="center">Fig-012</p>
 
 #### Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
@@ -477,8 +484,8 @@ En este formulario se podrá ver a todos los voluntarios cercanos a su domicilio
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán realizar una solicitud de cuidado de mascotas"(Fig-013).
 
-<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
-<p align="center">Fig-007</p>
+<p align="center"><img src="img/0013.png" width="600"></p>
+<p align="center">Fig-013</p>
 
 #### Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
@@ -502,8 +509,8 @@ Habrá un botón "EMERGENCIA" en cada clínica que se habilitara cuando termine 
 #### **Descripción: **
 Todos los usuarios registrados en general, podrán realizar una solicitud de cita de emergencia"(Fig-014).
 
-<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
-<p align="center">Fig-007</p>
+<p align="center"><img src="img/0014.png" width="600"></p>
+<p align="center">Fig-014</p>
 
 #### Proceso
 <p align="center"><img src="img/prin.png" width="600"></p>
