@@ -301,7 +301,7 @@ El presente registro lo harán los usuarios que deseen ser voluntarios, con los 
 - Ubicación de su dirección en Google maps
 
 <p align="center"><img src="img/5.7.PNG" width="600"></p>
-<p align="center">Fig-003</p>
+<p align="center">Fig-007</p>
 
 #### Proceso
 <p align="center"><img src="img/0007.png" width="600"></p>
