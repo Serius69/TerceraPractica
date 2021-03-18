@@ -435,12 +435,12 @@ La solicitud debe ser respondida y confirmada por la clínica veterinaria y apen
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán realizar una solicitud de cita"(Fig-011).
 
-<p align="center"><img src="img/0011.png" width="600"></p>
+<p align="center"><img src="img/img.png" width="600"></p>
 <p align="center">Fig-011</p>
 
 #### Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center"><img src="img/0011.png" width="600"></p>
+<p align="center">P-011</p>
 
 -----------------------------------------------------------------------------
 
@@ -459,12 +459,12 @@ Todos los usuarios registrados en general, podrán realizar una solicitud de cit
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán visualizar si sus citas médicas fueron aceptadas o rechazadas por la clínica"(Fig-012).
 
-<p align="center"><img src="img/0012.png" width="600"></p>
+<p align="center"><img src="img/img.png" width="600"></p>
 <p align="center">Fig-012</p>
 
 #### Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center"><img src="img/0012.png" width="600"></p>
+<p align="center">P-012</p>
 
 -----------------------------------------------------------------------------
 
@@ -484,12 +484,12 @@ En este formulario se podrá ver a todos los voluntarios cercanos a su domicilio
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán realizar una solicitud de cuidado de mascotas"(Fig-013).
 
-<p align="center"><img src="img/0013.png" width="600"></p>
+<p align="center"><img src="img/img.png" width="600"></p>
 <p align="center">Fig-013</p>
 
 #### Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center"><img src="img/0013.png" width="600"></p>
+<p align="center">P-013</p>
 
 -----------------------------------------------------------------------------
 
@@ -509,12 +509,12 @@ Habrá un botón "EMERGENCIA" en cada clínica que se habilitara cuando termine 
 #### **Descripción: **
 Todos los usuarios registrados en general, podrán realizar una solicitud de cita de emergencia"(Fig-014).
 
-<p align="center"><img src="img/0014.png" width="600"></p>
+<p align="center"><img src="img/img.png" width="600"></p>
 <p align="center">Fig-014</p>
 
 #### Proceso
-<p align="center"><img src="img/prin.png" width="600"></p>
-<p align="center">P-007</p>
+<p align="center"><img src="img/0014.png" width="600"></p>
+<p align="center">P-014</p>
 
 -----------------------------------------------------------------------------
 
