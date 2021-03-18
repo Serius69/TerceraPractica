@@ -39,39 +39,48 @@ Integrantes
   * 5.13 Visualización de citas médicas aceptadas o rechazadas
   * 5.14 Solicitud de cuidado de mascotas
 	* 5.14.1 Visualización de voluntarios cercanos
-  * 5.15 Solicitud de citas médicas de emergencia por video llamada 
+  * 5.15 Solicitud de citas médicas virtuales de emergencia por video llamada 
   * 5.16 Visualización de plataformas de video llamada para emergencias
 
    
 ## INDICE DE FIGURAS
 
 * Figura 001 : Pantalla de inicio
-* Figura 001 : Inicio de sesión
-* Figura 002 : Registro de cuenta
-* Figura 003 : Registro de cuenta nivel voluntario
-* Figura 004 : Modificacion de perfil 
-* Figura 005 : Perfil del cliente
-* Figura 006 : plataforma de clinicas
-* Figura 007 : perfil de clinicas
-* Figura 008 : plataforma video llamada
-* Figura 009 : registro de administrador
-* Figura 010 : Recuperacion de contraseña
+* Figura 002 : Inicio de sesión
+* Figura 003 : Recuperación de contraseña
+* Figura 004 : Registro de cuenta cliente
+* Figura 005 : Perfil cliente
+* Figura 006 : Modificación de perfil cliente 
+* Figura 007 : Registro de cuenta voluntario
+* Figura 008 : Registro de cuenta veterinaria
+* Figura 009 : Perfil Veterinaria
+* Figura 010 : Listado de clínicas
+* Figura 011 : Perfil de clínica
+* Figura 012 : Citas médicas en veterinaria 
+* Figura 013 : Citas médicas aceptadas o rechazadas
+* Figura 014 : Servicio de cuidado de mascotas
+* Figura 015 : Citas médicas virtuales de emergencia
+* Figura 016 : Plataformas de video llamadas
 
-
-
+ 
 ## INDICE DE PROCESOS
 
-* Proceso 001: Proceso para inicio de sesión
-* Proceso 002: Proceso para Registro de cuenta
-* Proceso 003: Proceso para Registro de cuenta nivel voluntario
-* Proceso 004: Proceso para Modificacion de perfil 
-* Proceso 005: Proceso para Perfil del cliente
-* Proceso 006: Proceso para plataforma de clinicas
-* Proceso 007: Proceso para perfil de clinicas
-* Proceso 08: Proceso para plataforma video llamada
-* Proceso 09: Proceso para registro de administrador
-* Proceso 010: Proceso para Recuperacion de contraseña
-
+* Proceso 001: Proceso para entrar a la página web
+* Proceso 002: Proceso para inicio de sesión
+* Proceso 003: Proceso para recuperación de contraseña
+* Proceso 004: Proceso para registro de cuenta cliente
+* Proceso 005: Proceso para visualización perfil cliente
+* Proceso 006: Proceso para edición de perfil cliente
+* Proceso 007: Proceso para registro de cuenta voluntario
+* Proceso 008: Proceso para registro de cuenta veterinaria
+* Proceso 009: Proceso para visualización perfil veterinaria
+* Proceso 010: Proceso para visualización de plataforma de clínicas
+* Proceso 011: Proceso para visualización perfil clínica
+* Proceso 012: Proceso para solicitud de cita médica en veterinaria
+* Proceso 013: Proceso para visualización de citas médicas aceptadas o rechazadas
+* Proceso 014: Proceso para solicitud de cuidado de mascotas
+* Proceso 015: Proceso para solicitud de citas médicas virtuales de emergencia
+* Proceso 016: Proceso para visualización de plataformas de video llamada
 
 
 # TITULO DEL PROYECTO PET-ANGEL
