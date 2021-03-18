@@ -120,7 +120,7 @@ Tambien podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
 
 #### **Descripción:**
 
-<p align="center"><img src="img/5.1.png" width="600"></p>
+<p align="center"><img src="img/5.1.PNG" width="600"></p>
 <p align="center">Fig-001</p>
 
 #### **Proceso:**
@@ -145,7 +145,7 @@ Tambien podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
 #### **Descripción:**
 El usuario al ingresar a la página de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la página (Fig 002) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe registrarse.
 
-<p align="center"><img src="img/5.2.png" width="600"></p>
+<p align="center"><img src="img/5.2.PNG" width="600"></p>
 <p align="center">Fig-001</p>
 
 #### Proceso
@@ -174,8 +174,7 @@ Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de erro
 
 #### **Descripción:**  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad.
 
-<p align="center"><img src="img/5.3
-.png" width="600"></p>
+<p align="center"><img src="img/5.3.PNG" width="600"></p>
 <p align="center">Fig-010 </p>
 
 #### Proceso
@@ -205,10 +204,10 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 - Contraseña.
 Una vez validado el correo electrónico ingresado aparecerá un formulario para que pueda registrar a sus mascotas.
 
-<p align="center"><img src="img/5.4.png" width="600"></p>
+<p align="center"><img src="img/5.4.PNG" width="600"></p>
 <p align="center">Fig-002</p>
 
-<p align="center"><img src="img/5.4.1.png" width="600"></p>
+<p align="center"><img src="img/5.4.1.PNG" width="600"></p>
 <p align="center">Fig-002</p>
 
 #### Proceso
@@ -247,7 +246,7 @@ También tendrá las opciones de edición con los botones de:
 El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro mediante una lista en la parte inferior de la interfaz. 
 Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene (Fig-005).
 
-<p align="center"><img src="img/5.5.png" width="600"></p>
+<p align="center"><img src="img/5.5.PNG" width="600"></p>
 <p align="center">Fig-004</p>
 
 #### Proceso
@@ -287,13 +286,13 @@ Finalmente, la parte de actualización de las mascotas registradas el usuario po
 El cliente tiene registrado sus datos personales en la plataforma, los cuales puede editar para tener siempre información actualizada.
 Puede editar datos como ser el nombre del usuario, la dirección actual del usuario como ser el país y ciudad. También puede editar la contraseña actual con una contraseña nueva (Fig-006).
 
-<p align="center"><img src="img/5.6.png" width="600"></p>
+<p align="center"><img src="img/5.6.PNG" width="600"></p>
 <p align="center">Fig-5.1</p>
 
-<p align="center"><img src="img/5.6.1.png" width="600"></p>
+<p align="center"><img src="img/5.6.1.PNG" width="600"></p>
 <p align="center">Fig-5.2</p>
 
-<p align="center"><img src="img/5.6.2.png" width="600"></p>
+<p align="center"><img src="img/5.6.2.PNG" width="600"></p>
 <p align="center">Fig-5.3</p>
 
 #### Proceso
@@ -323,7 +322,7 @@ El presente registro lo harán los usuarios que deseen ser voluntarios, con los 
 - Dirección
 - Ubicación de su dirección en Google maps
 
-<p align="center"><img src="img/5.7.png" width="600"></p>
+<p align="center"><img src="img/5.7.PNG" width="600"></p>
 <p align="center">Fig-003</p>
 
 #### Proceso
@@ -358,7 +357,7 @@ El presente registro lo harán los usuarios de clínicas veterinarias que deseen
 - Horarios de atención
 Ademas deberan ingresar su tarjeta de credito o debito para que se pueda realizar el cobro mensual.
 
-<p align="center"><img src="img/5.8.png" width="600"></p>
+<p align="center"><img src="img/5.8.PNG" width="600"></p>
 <p align="center">Fig-003</p>
 
 #### Proceso
@@ -393,7 +392,7 @@ Ademas deberan ingresar su tarjeta de credito o debito para que se pueda realiza
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán visualizar la información proporcionada por la clínica veterinaria, la cual estará en su perfil (Fig-009).
 
-<p align="center"><img src="img/5.9.png" width="600"></p>
+<p align="center"><img src="img/5.9.PNG" width="600"></p>
 <p align="center">Fig-006</p>
 
 #### Proceso
@@ -417,10 +416,10 @@ Todos los usuarios registrados en general, podrán visualizar la información pr
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán visualizar la información de las diferentes clínicas"(Fig-010).
 
-<p align="center"><img src="img/5.10.png" width="600"></p>
+<p align="center"><img src="img/5.10.PNG" width="600"></p>
 <p align="center">Fig-007</p>
 
-<p align="center"><img src="img/5.10.1.png" width="600"></p>
+<p align="center"><img src="img/5.10.1.PNG" width="600"></p>
 <p align="center">Fig-007</p>
 
 #### Proceso
@@ -446,7 +445,7 @@ La solicitud debe ser respondida y confirmada por la clínica veterinaria y apen
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán realizar una solicitud de cita"(Fig-011).
 
-<p align="center"><img src="img/5.11.png" width="600"></p>
+<p align="center"><img src="img/5.11.PNG" width="600"></p>
 <p align="center">Fig-011</p>
 
 #### Proceso
@@ -470,7 +469,7 @@ Todos los usuarios registrados en general, podrán realizar una solicitud de cit
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán visualizar si sus citas médicas fueron aceptadas o rechazadas por la clínica"(Fig-012).
 
-<p align="center"><img src="img/5.12.png" width="600"></p>
+<p align="center"><img src="img/5.12.PNG" width="600"></p>
 <p align="center">Fig-012</p>
 
 #### Proceso
@@ -495,10 +494,10 @@ En este formulario se podrá ver a todos los voluntarios cercanos a su domicilio
 #### **Descripción:**
 Todos los usuarios registrados en general, podrán realizar una solicitud de cuidado de mascotas"(Fig-013).
 
-<p align="center"><img src="img/5.13.png" width="600"></p>
+<p align="center"><img src="img/5.13.PNG" width="600"></p>
 <p align="center">Fig-013</p>
 
-<p align="center"><img src="img/5.13.1.png" width="600"></p>
+<p align="center"><img src="img/5.13.1.PNG" width="600"></p>
 <p align="center">Fig-013</p>
 
 #### Proceso
@@ -523,7 +522,7 @@ Habrá un botón "EMERGENCIA" en cada clínica que se habilitara cuando termine 
 #### **Descripción: **
 Todos los usuarios registrados en general, podrán realizar una solicitud de cita de emergencia"(Fig-014).
 
-<p align="center"><img src="img/5.14.png" width="600"></p>
+<p align="center"><img src="img/5.14.PNG" width="600"></p>
 <p align="center">Fig-014</p>
 
 #### Proceso
@@ -548,7 +547,7 @@ Al presionar sobre una plataforma simplemente se redireccionará a un link direc
 #### **Descripción:**
 Todos los usuarios que hayan solicitado una cita médica virtual de emergencia podrán observar las plataformas disponibles"(Fig-007).
 
-<p align="center"><img src="img/5.14.png" width="600"></p>
+<p align="center"><img src="img/5.14.PNG" width="600"></p>
 <p align="center">Fig-007</p>
 
 #### Proceso
@@ -576,7 +575,7 @@ Todos los usuarios que hayan solicitado una cita médica virtual de emergencia p
 *Guarderia: Es el servicio de Paseo de Mascotas. * 
 
 
-<p align="center"><img src="img/5.16.png" width="600"></p>
+<p align="center"><img src="img/5.16.PNG" width="600"></p>
 <p align="center">Fig-016</p>
 -----------------------------------------------------------------------------
 
