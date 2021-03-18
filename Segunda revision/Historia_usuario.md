@@ -34,13 +34,12 @@ Integrantes
   * 5.8 Registro de usuario como veterinaria
   * 5.9 Visualización del perfil veterinaria
   * 5.10 Visualización de clínicas
-  * 5.11 Visualización del perfil de la clínica
-  * 5.12 Solicitud de citas médicas en veterinaria
-  * 5.13 Visualización de citas médicas aceptadas o rechazadas
-  * 5.14 Solicitud de cuidado de mascotas
-	* 5.14.1 Visualización de voluntarios cercanos
-  * 5.15 Solicitud de citas médicas virtuales de emergencia por video llamada 
-  * 5.16 Visualización de plataformas de video llamada para emergencias
+  * 5.11 Solicitud de citas médicas en veterinaria
+  * 5.12 Visualización de citas médicas aceptadas o rechazadas
+  * 5.13 Solicitud de cuidado de mascotas
+	* 5.13.1 Visualización de voluntarios cercanos
+  * 5.14 Solicitud de citas médicas virtuales de emergencia por video llamada 
+  * 5.15 Visualización de plataformas de video llamada para emergencias
 
    
 ## INDICE DE FIGURAS
@@ -55,12 +54,11 @@ Integrantes
 * Figura 008 : Registro de cuenta veterinaria
 * Figura 009 : Perfil Veterinaria
 * Figura 010 : Listado de clínicas
-* Figura 011 : Perfil de clínica
-* Figura 012 : Citas médicas en veterinaria 
-* Figura 013 : Citas médicas aceptadas o rechazadas
-* Figura 014 : Servicio de cuidado de mascotas
-* Figura 015 : Citas médicas virtuales de emergencia
-* Figura 016 : Plataformas de video llamadas
+* Figura 011 : Citas médicas en veterinaria 
+* Figura 012 : Citas médicas aceptadas o rechazadas
+* Figura 013 : Servicio de cuidado de mascotas
+* Figura 014 : Citas médicas virtuales de emergencia
+* Figura 015 : Plataformas de video llamadas
 
  
 ## INDICE DE PROCESOS
@@ -75,12 +73,11 @@ Integrantes
 * Proceso 008: Proceso para registro de cuenta veterinaria
 * Proceso 009: Proceso para visualización perfil veterinaria
 * Proceso 010: Proceso para visualización de plataforma de clínicas
-* Proceso 011: Proceso para visualización perfil clínica
-* Proceso 012: Proceso para solicitud de cita médica en veterinaria
-* Proceso 013: Proceso para visualización de citas médicas aceptadas o rechazadas
-* Proceso 014: Proceso para solicitud de cuidado de mascotas
-* Proceso 015: Proceso para solicitud de citas médicas virtuales de emergencia
-* Proceso 016: Proceso para visualización de plataformas de video llamada
+* Proceso 011: Proceso para solicitud de cita médica en veterinaria
+* Proceso 012: Proceso para visualización de citas médicas aceptadas o rechazadas
+* Proceso 013: Proceso para solicitud de cuidado de mascotas
+* Proceso 014: Proceso para solicitud de citas médicas virtuales de emergencia
+* Proceso 015: Proceso para visualización de plataformas de video llamada
 
 
 # TITULO DEL PROYECTO PET-ANGEL
@@ -104,56 +101,38 @@ Los niveles de prioridad serán en función al efecto que tenga en el núcleo de
 
 ## **Historias de Usuario**
 
-### **01. Ingreso al sistema como usuario/cliente**
+### **01. Visualización pantalla inicial**
 
-**Número**: 001      **Usuario**: Clientes
+**Número**: 001      **Usuario**: Clientes/Médicos/Voluntarios
 
-**Nombre de la historia**: Pagina Principal de pagina
+**Nombre de la historia**: Vista inicial de la página web
 
-**Prioridad en el Negocio**:Bajo           **Riesgo de desarrollo**: Bajo
+**Prioridad en el Negocio**: Medio           **Riesgo de desarrollo**: Bajo
 
-**Programador responsable:** *Troche Mayta Sergio*
+**Programador responsable:** *Roxana Vargas Telleria*
 
-**Validación:**  El Usuario podra ver la informacion basica de la Pagina(Fig-001).
+**Validación: **  El Usuario podrá ver la información básica de la página pero sin toda la información completa, además de que podrá ver algunos consejos para el cuidado de su mascota (Fig-001).
 
-
-<p align="center"><img src="img/.png" width="600"></p>
+<p align="center"><img src="mock1/.png" width="600"></p>
 <p align="center">Fig-001</p>
 
-#### **Descripción:**
+#### **Descripción: **
 
 
-### **02. Seleccion de Crear perfil de Cliente o Voluntario*
+### **02. Ingreso al sistema como usuario/cliente**
 
-**Número**: 002      **Usuario**: Clientes/Voluntarios
-
-**Nombre de la historia**: Seleccion de Crear perfil de Usuario o Voluntario
-
-**Prioridad en el Negocio**:Medio             **Riesgo de desarrollo**: Bajo
-
-**Programador responsable:** *Troche Mayta Sergio*
-
-**Validación:** El Usuario o Voluntario tendra que seleccionar que tipo de perfil quiere crearse si de Usuario o de Voluntario.
-#### **Descripción:**
-
-<p align="center"><img src="img.png" width="600"></p>
-<p align="center">Fig-001</p>
-
-### **03. Ingreso al sistema como usuario/cliente**
-
-**Número**: 003      **Usuario**: Clientes
+**Número**: 002     **Usuario**: Clientes
 
 **Nombre de la historia**: Ingreso al sistema como usuario/cliente
 
-**Prioridad en el Negocio**:Medio             **Riesgo de desarrollo**: Bajo
+**Prioridad en el Negocio**: Medio             **Riesgo de desarrollo**: Bajo
 
-**Programador responsable:** *Troche Mayta Sergio*
+**Programador responsable: ** *Troche Mayta Sergio*
 
-**Validación:**  El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto :correo sin caracteres inválidos y contraseña mínima de 8 caracteres.
+**Validación: ** El usuario debe tener una cuenta registrada para poder acceder a la plataforma, los campos a introducir deben contar con el formato correcto: contraseña mínima de 8 caracteres.
 
-#### **Descripción:**
-El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la pagina (Fig-1) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe de registrarse.
-
+#### **Descripción: **
+El usuario al ingresar a la página de Pet-Angel se le pedirá realizar un inicio de sesión para acceder a la plataforma de consultas de la página (Fig 002) se debe ingresar el correo y la contraseña, si el usuario no cuenta con una cuenta registrada debe registrarse.
 
 <p align="center"><img src="img.png" width="600"></p>
 <p align="center">Fig-001</p>
@@ -163,24 +142,54 @@ El usuario al ingresar a la pagina de Pet-Angel se le pedirá realizar un inicio
 <p align="center"><img src="img/png" width="600"></p>
 <p align="center">P-001</p>
 
-### **03.  Registro al sistema como cliente**
 
-**Número:** 003   **Usuario:** Clientes 
+### **03.  Recuperación de contraseña ** 
 
-**Nombre de la historia:** Registro al sistema como cliente
+**Número: ** 003      **Usuario: Clientes/Clínicas/Voluntarios
 
-**Prioridad en el Negocio:** Medio            **Riesgo de desarrollo:** Bajo
+**Nombre de la historia: Recuperar contraseña**
 
-**Programador responsable:** *Troche Mayta Sergio*
+**Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Medio**
 
-**Validación:** Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Estos campos deben tener caracteres válidos y todos son obligatorios.
+**Programador responsable: ** *Troche Mayta Sergio*
+ 
+**Validación: Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio
+de sesión o cuando se equivoque tres veces al ingresar su contraseña.
+Para esta función, el sistema le pedirá la respuesta a su pregunta de seguridad y su nueva contraseña.
+La contraseña deberá tener el mismo formato que al crear una cuenta. (Fig 003)
+Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso. **
 
-#### **Descripción:**
-Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al formulario de registro el cual se encuentra en la parte inferior central de la página de inicio de sesión (Fig-002) como un link. El usuario podrá crear su cuenta ingresando los siguientes datos:
+
+#### **Descripción:  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad. **
+
+<p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
+<p align="center">Fig-010 </p>
+
+#### Proceso
+
+<p align="center"><img src="img/cont.png" width="600"></p>
+<p align="center">P-010</p>
+
+
+### **04.  Registro al sistema como cliente**
+
+**Número: ** 004   **Usuario:** Clientes 
+
+**Nombre de la historia: ** Registro al sistema como cliente
+
+**Prioridad en el Negocio: ** Medio            **Riesgo de desarrollo:** Bajo
+
+**Programador responsable: ** *Troche Mayta Sergio*
+
+**Validación: ** Para que un usuario nuevo se registre en la plataforma debe ingresar un nombre de usuario, correo y crear una contraseña. Todos son obligatorios.
+Una vez validado el correo electrónico ingresado deberá registrar a sus mascotas.
+
+#### **Descripción: **
+Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al formulario de registro el cual se encuentra en la parte inferior central de la página de inicio de sesión (Fig-004) como un link. El usuario podrá crear su cuenta ingresando los siguientes datos:
 - Nombre de Usuario.
 - Correo.
 - Contraseña.
-
+Una vez validado el correo electrónico ingresado aparecerá un formulario para que pueda registrar a sus mascotas.
 
 <p align="center"><img src="img/002Registro.png" width="600"></p>
 <p align="center">Fig-002</p>
@@ -190,27 +199,104 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 <p align="center">P-002</p>
 
 
-### **04. Registro de usuario como "voluntario"**
+### **05. Visualización del perfil del cliente**
 
-**Numero:** 004 **Usuario:** Voluntarios
+**Número: ** 005      **Usuario:**
 
-**Nombre de la historia:** *Registro en el sistema como voluntario*
+**Nombre de la historia: ** Visualización del perfil del cliente
 
-**Prioridad en el Negocio:** *Medio*
+**Prioridad en el Negocio: **  Medio           **Riesgo de desarrollo:** Bajo
 
-**Riesgo de desarrollo:** *Medio*
+**Programador responsable: ** *Troche Mayta Sergio*
 
-**Programador responsable:** *Porcel Peña Jhoan*
+**Validación: ** El usuario puede observar los datos que registró en la plataforma, además en la parte inferior se observa el historial de consultas que tiene hasta la fecha.
+Se observa los siguientes datos, los cuales puede modificar con el transcurso del tiempo:
+- Nombre de Usuario.
+- Correo electrónico
+- Dirección
+- Ubicación de la dirección en Google maps
 
-**Validación:** *Se debe validar el nombre de usuario, correo electrónico, numero de celular, contraseña*
+En la parte de mascotas tiene una descripción detallada de las mascotas que tiene registradas en su perfil:
+- Nombre de la mascota.
+- Raza de la mascota.
+- Edad de la mascota.
+- Generar cita
 
-#### **Descripción:**
-El presente registro lo harán los usuarios que desean, con los siguientes datos (Fig-003):
+También tendrá las opciones de edición con los botones de:
+- Editar perfil.
+- Cambiar contraseña.
+
+#### **Descripción: **
+El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro mediante una lista en la parte inferior de la interfaz. 
+Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene (Fig-005).
+
+<p align="center"><img src="img/004Perfil.png" width="600"></p>
+<p align="center">Fig-004</p>
+
+#### Proceso
+<p align="center"><img src="img/usu.png" width="600"></p>
+<p align="center">P-004</p>
+
+
+### **06. Edición de Perfil del Cliente**
+
+**Número: ** 006     **Usuario: ** Clientes
+
+**Nombre de la historia: ** Edición del perfil del cliente
+
+**Prioridad en el Negocio: ** Alta            **Riesgo de desarrollo: ** Alta
+
+**Programador responsable: ** *Troche Mayta Sergio*
+
+**Validación: ** En la figura se puede observar los campos que puede editar el usuario:
+- Nombre de usuario
+- Contraseña
+- Numero de teléfono
+- Dirección
+- Ciudad
+- País
+
+Por otra parte, en la actualización de la contraseña solo se observa los campos de ingreso de la
+nueva contraseña más la verificación de la nueva y la validación de la antigua contraseña.
+
+Finalmente, la parte de actualización de las mascotas registradas el usuario podrá cambiar los siguientes campos:
+
+- Nombre de la mascota.
+- Raza de la mascota.
+- Edad de la mascota.
+
+#### **Descripción: **
+El cliente tiene registrado sus datos personales en la plataforma, los cuales puede editar para tener siempre información actualizada.
+Puede editar datos como ser el nombre del usuario, la dirección actual del usuario como ser el país y ciudad. También puede editar la contraseña actual con una contraseña nueva (Fig-006).
+
+<p align="center"><img src="img/Perfil (Editar Usuario).png" width="600"></p>
+<p align="center">Fig-005</p>
+
+#### Proceso
+<p align="center"><img src="img/edit.png" width="600"></p>
+<p align="center">P-005</p>
+
+
+### **07. Registro de usuario como "voluntario"**
+
+**Numero: ** 007 **Usuario: ** Voluntarios
+
+**Nombre de la historia: ** *Registro en el sistema como voluntario*
+
+**Prioridad en el Negocio: ** *Medio*          **Riesgo de desarrollo: ** *Medio*
+
+**Programador responsable: ** *Porcel Peña Jhoan*
+
+**Validación: ** *Se debe validar el nombre de usuario, correo electrónico, numero de celular, contraseña*
+
+#### **Descripción: **
+El presente registro lo harán los usuarios que deseen ser voluntarios, con los siguientes datos (Fig-007):
 - Nombre de usuario.
 - E-mail.
 - Contraseña.
-- numero de celular.
-
+- Numero de celular.
+- Dirección
+- Ubicación de su dirección en Google maps
 
 <p align="center"><img src="img/003Registro voluntarios.png" width="600"></p>
 <p align="center">Fig-003</p>
@@ -220,92 +306,50 @@ El presente registro lo harán los usuarios que desean, con los siguientes datos
 <p align="center">P-003</p>
 
 
-### **04. Visualización del perfil del cliente**
+### **08. Registro de usuario como veterinaria**
 
-**Número:** 004      **Usuario:**
+**Numero: ** 008                  **Usuario: ** Veterinarias
 
-**Nombre de la historia:** Visualización del perfil del cliente
-**Prioridad en el Negocio:**  Medio           **Riesgo de desarrollo:** Bajo
+**Nombre de la historia: ** *Registro en el sistema como veterinaria*
 
-**Programador responsable:** *Troche Mayta Sergio*
+**Prioridad en el Negocio: ** *Medio*          **Riesgo de desarrollo: ** *Medio*
 
-**Validación:** El usuario puede observar sus datos que se registró en la plataforma, además en la parte inferior se observa el historial de consultas que tiene, por otra parte, se observa algunas opciones que puede editar y/o agregar los datos para hacer mas completo su perfil:
-- Nombre de Usuario.
-- Nombre de la mascota.
-- Raza de la mascota.
-- Edad de la mascota.
-- Correo.
-- País / Ciudad.
+**Programador responsable: ** *Roxana Vargas Telleria*
 
-También tendrá las opciones de edición con los botones de:
-- Editar perfil.
-- Cambiar contraseña.
+**Validación: ** *Se debe validar el nombre de usuario, correo electrónico, numero de celular, contraseña*
 
-En la parte de mascotas tiene una descripción detallada de las mascotas que tiene registradas en su perfil:
-- Nombre de la mascota.
-- Raza de la mascota.
-- Edad de la mascota.
-- Generar cita
+#### **Descripción: **
+El presente registro lo harán los usuarios de clínicas veterinarias que deseen ser parte del sistema, con los siguientes datos (Fig-008):
+- Nombre de usuario.
+- E-mail.
+- Contraseña.
+- Numero de celular.
+- Dirección de la clínica.
+- Ubicación de su dirección en Google maps.
+- Numero de registro de clínica autorizada.
+- Especialidades
+- Tipos de servicios ofrecidos.
+- Horarios de atención
 
-
-#### **Descripción:**
-El usuario podrá ver su perfil, revisar sus datos registrados en la plataforma y observar las mascotas que registro en la plataforma mediante una lista en la parte inferior de la interfaz. Finalmente, los campos más importantes son los datos del usuario y las consultas generadas que tiene(Fig-004).
-
-<p align="center"><img src="img/004Perfil.png" width="600"></p>
-<p align="center">Fig-004</p>
+<p align="center"><img src="img/003Registro veterinarias.png" width="600"></p>
+<p align="center">Fig-003</p>
 
 #### Proceso
-<p align="center"><img src="img/usu.png" width="600"></p>
-<p align="center">P-004</p>
+<p align="center"><img src="img/reg.png" width="600"></p>
+<p align="center">P-003</p>
 
-### **05. Edición de Perfil del Cliente**
 
-**Número:** 005     **Usuario:** Clientes
+### **09. Visualización del perfil veterinaria**
 
-**Nombre de la historia:** Edición del perfil del cliente
+**Numero: ** *09*     **Usuario:** clientes nivel clínica
 
-**Prioridad en el Negocio:** Alta            **Riesgo de desarrollo:** Alta
+**Nombre de la historia: ** *Visualización del perfil de clínica*
 
-**Programador responsable:** *Troche Mayta Sergio*
+**Prioridad en el Negocio: ** *Medio*              **Riesgo de desarrollo: ** *bajo*
 
-**Validación:** En la figura se puede observar los campos que puede editar el usuario, como ser las
-opciones de la edición de datos, que son:
-- Nombre del usuario.
-- Correo.
-- Ciudad.
-- País.
-Por otra parte en la actualización de la contraseña solo se observa los campos de ingreso de la
-nueva contraseña más la verificación de la nueva y la validad de la antigua contraseña.
+**Programador responsable: ** *Porcel Peña Jhoan*
 
-Finalmente la parte de actualización de las mascotas registradas el usuario podrá cambiar los siguientes campos:
-- Nombre de la mascota.
-- Raza de la mascota.
-- Edad de la mascota.
-
-#### **Descripción:**
-El cliente tiene registrado sus datos personales en la plataforma, por lo cual, puede editar sus datos como ser el nombre del usuario, el correo electrónico del usuario, además la ubicación actual del usuario como ser el país y ciudad. Por lo tanto, el usuario puede editar la contraseña actual con una contraseña nueva (Fig-005).
-
-<p align="center"><img src="img/Perfil (Editar Usuario).png" width="600"></p>
-<p align="center">Fig-005</p>
-
-#### Proceso
-<p align="center"><img src="img/edit.png" width="600"></p>
-<p align="center">P-005</p>
-
-### **06. Visualización del perfil de clínica**
-
-**Numero:** *006*
-**Usuario:** clientes nivel clínica
-
-**Nombre de la historia:** *Visualización del perfil de clínica*
-
-**Prioridad en el Negocio:** *Medio*
-
-**Riesgo de desarrollo :** *bajo*
-
-**Programador responsable :** *Porcel Peña Jhoan*
-
-**Validación:** *Se deberá visualizar los datos generales de las clínicas como:* 
+**Validación: ** *Se deberá visualizar los datos generales de las clínicas como: * 
 
 - Nombre
 - Teléfono
@@ -318,8 +362,8 @@ El cliente tiene registrado sus datos personales en la plataforma, por lo cual, 
 - Sección de mascotas atendidas
 - Una calificación justificada de la clínica
 
-#### **Descripción:**
-Todos los usuarios registrados en general,podrán visualizar la información proporcionada por la clínica veterinaria, la cual estará en su perfil de la misma(Fig-006).
+#### **Descripción: **
+Todos los usuarios registrados en general, podrán visualizar la información proporcionada por la clínica veterinaria, la cual estará en su perfil (Fig-009).
 
 <p align="center"><img src="img/006Vista Clinica.png" width="600"></p>
 <p align="center">Fig-006</p>
@@ -328,24 +372,21 @@ Todos los usuarios registrados en general,podrán visualizar la información pro
 <p align="center"><img src="img/clin.png" width="600"></p>
 <p align="center">P-006</p>
 
-### **07. Visualización clínicas**
 
-**Numero:** *007*
+### **10. Visualización de clínicas**
 
-**Usuario:** clientes en general
+**Numero: ** *010*      **Usuario: ** Clientes en general
 
-**Nombre de la historia:** *Visualización de la pantalla principal*
+**Nombre de la historia: ** *Visualización de la pantalla principal*
 
-**Prioridad en el Negocio:** *Medio*
+**Prioridad en el Negocio: ** *Medio*             **Riesgo de desarrollo:** *bajo*
 
-**Riesgo de desarrollo :** *bajo*
+**Programador responsable:** *Porcel Peña Jhoan*
 
-**Programador responsable :** *Porcel Peña Jhoan*
+**Validación: ** *Se vera las clínicas veterinarias que se encuentran registradas en el sistema"* 
 
-**Validación:** *Se vera las clinicas veterinarias que se encuentran registradas en el sistema"* 
-
-#### **Descripción:**
-Todos los usuarios registrados en general,podrán visualizar la información de las diferentes clinicas"(Fig-007).
+#### **Descripción: **
+Todos los usuarios registrados en general, podrán visualizar la información de las diferentes clínicas"(Fig-010).
 
 <p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
 <p align="center">Fig-007</p>
@@ -358,130 +399,125 @@ Todos los usuarios registrados en general,podrán visualizar la información de 
 <p align="center">P-007</p>
 
 
-### **08. Suscripcion a la pagina**
+### **11. Solicitud de cita médica en veterinaria**
 
-**Numero:** 008
+**Numero: ** *011*      **Usuario: ** Clientes en general
 
-**Usuario:** Clientes
+**Nombre de la historia: ** *Solicitud cita médica en veterinaria*
 
-**Nombre de la historia:** Visualización de la pantalla principal
+**Prioridad en el Negocio: ** *Alto*             **Riesgo de desarrollo: ** *Medio*
 
-**Prioridad en el Negocio:** Alto
+**Programador responsable: ** *Roxana Vargas Telleria*
 
-**Riesgo de desarrollo :** Medio
+**Validación: ** *Se vera las clínicas veterinarias que se encuentran registradas en el sistema y cada una tendrá un botón para poder reservar una cita. 
+Al presionar el botón de la clínica preferida se observa los horarios de atención de esta, se debe llenar un formulario con la fecha y hora para la cita deseada, además de una breve descripción del motivo de la cita y a cuál mascota registrada pertenecería dicha cita.
+La solicitud debe ser respondida y confirmada por la clínica veterinaria y apenas sea respondida debe enviar una notificación al solicitante"* 
 
-**Programador responsable :** Troche Mayta Sergio Denis
+#### **Descripción: **
+Todos los usuarios registrados en general, podrán realizar una solicitud de cita"(Fig-011).
 
-**Validación:** Se vera las clinicas veterinarias que se encuentran registradas en el sistema
-
-#### **Descripción:**
-Para la suscripcion a la pagina se tiene solamente un metodo y es por el pago por transaccion bancaria, el cleinte presiona en
-
-<p align="center"><img src="" width="600"></p>
-<p align="center">Fig-007</p>
-
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
 <p align="center">Fig-007</p>
 
 #### Proceso
-<p align="center"><img src="" width="600"></p>
+<p align="center"><img src="img/prin.png" width="600"></p>
 <p align="center">P-007</p>
 
 
+### **12. Visualización de citas médicas aceptadas o rechazadas**
 
+**Numero: ** *012*      **Usuario: ** Clientes en general
 
+**Nombre de la historia: ** *Citas médicas aceptadas o rechazadas*
 
-### **009. Visualización de plataformas de video llamada**
+**Prioridad en el Negocio: ** *Alto*             **Riesgo de desarrollo: ** *Medio*
 
-**Número:** 008      **Usuario:** Paciente
+**Programador responsable: ** *Roxana Vargas Telleria*
 
-**Nombre de la historia:** Visualización de plataformas de video llamada
+**Validación: ** *Se tendrá un apartado donde se podrá observar todas las citas médicas solicitadas y si estas fueron respondidas, aceptadas o rechazadas por la clínica veterinaria"* 
 
-**Prioridad en el Negocio:**  Media          **Riesgo de desarrollo:** Bajo
+#### **Descripción: **
+Todos los usuarios registrados en general, podrán visualizar si sus citas médicas fueron aceptadas o rechazadas por la clínica"(Fig-012).
 
-**Programador responsable:**
-
-**Validación:** 
-
-El Usuario podrá elegir la plataforma de video llamada con la cual esten mas familiarizado.
-
-#### **Descripción:**
-
-El Usuario tendrá a su disposición varias plataformas donde pueda el realizar video llamadas (Zoom, Whatsapp, Meet, Telegram, Messeger) así el podrá escoger la tecnología con el que se sienta mas cómodo. (Fig-008)
-
-<p align="center"><img src="img/008Videollamada.png" width="600"></p>
-<p align="center">Fig-008</p>
+<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
+<p align="center">Fig-007</p>
 
 #### Proceso
-
-<p align="center"><img src="img/vid.png" width="600"></p>
-<p align="center">P-008</p>
-
-
-### **009.  Creación de la cuenta del administrador**
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
 
 
-**Número:** 009     **Usuario:**
+### **13. Solicitud de cuidado de mascotas**
 
-**Nombre de la historia: Creación de la cuenta del administrador**
+**Numero: ** *013*      **Usuario:** Clientes en general
 
-**Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Alta**
+**Nombre de la historia: ** *Solicitud de cuidado de mascotas*
 
-**Programador responsable:** *Troche Mayta Sergio*
+**Prioridad en el Negocio: ** *Alto*             **Riesgo de desarrollo:** *Medio*
 
-**Validación:  Solo el administrador principal puede registrar a un nuevo administrador para lograr
-apoyar el sistema, los características que el usuario debe llenar en el sistema son:**
+**Programador responsable: ** *Roxana Vargas Telleria*
 
-- Nombre de Usuario.
-- Correo.
-- Celular.
-- País / Ciudad.
-- Contraseña.
-- Pregunta frecuente y respuesta**
-<p align="center"><img src="img/011Creacion admin.png" width="600"></p>
+**Validación: ** *Se podrá solicitar el cuidado de una mascota por algunas horas en el día llenando el formulario correspondiente.
+En este formulario se podrá ver a todos los voluntarios cercanos a su domicilio y escoger a cualquiera de ellos por libre elección"* 
 
+#### **Descripción: **
+Todos los usuarios registrados en general, podrán realizar una solicitud de cuidado de mascotas"(Fig-013).
 
-<p align="center">Fig-009 “Creación de la cuenta del administrador”.
+<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
+<p align="center">Fig-007</p>
 
 #### Proceso
-<p align="center"><img src="img/reg.png" width="600"></p>
-<p align="center">P-009</p>
-
-</p>
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
 
 
-#### **Descripción: El administrador principal de la plataforma puede agregar a un nuevo administrador, por otra parte los datos más importantes son la contraseña de usuario y la pregunta de seguridad.**
+### **14. Solicitud de cita médica virtual de emergencia**
 
-### **010.  Recuperación de contraseña ** 
+**Numero: ** *014*      **Usuario: ** Clientes en general
 
-**Número:** 010      **Usuario:**
+**Nombre de la historia: ** *Solicitud cita médica de emergencia*
 
-**Nombre de la historia: Recuperar contraseña**
+**Prioridad en el Negocio: ** *Alto*             **Riesgo de desarrollo :** *Medio*
 
-**Prioridad en el Negocio: Medio**             **Riesgo de desarrollo: Medio**
+**Programador responsable: ** *Roxana Vargas Telleria*
 
-**Programador responsable:** *Troche Mayta Sergio*
- 
-**Validación: Para recuperar la contraseña el usuario lo hará con una opción en la pantalla de inicio
-de sesión o cuando se equivoque tres veces al momento de realizar este último..
-Para esta función, el sistema le pedirá la respuesta a su pregunta seguridad y su nueva contraseña.
-La contraseña tendrá que tener el mismo formato que al crear una cuenta.
-Al darle a “Recuperar Cuenta” le dará un mensaje de confirmación o de error dependiendo el caso.**
+**Validación: ** *Para casos de emergencia y en horas fuera del horario de atención de las clínicas se podrá solicitar una cita virtual por distintas plataformas (Zoom, Meets, Whatsapp y Teams).
+Habrá un botón "EMERGENCIA" en cada clínica que se habilitara cuando termine su horario de atención, al presionar dicho botón se tendrá que llenar un formulario con una breve descripción del motivo de la emergencia, después podrá observar todas las plataformas disponibles para realizar la video llamada"* 
 
+#### **Descripción: **
+Todos los usuarios registrados en general, podrán realizar una solicitud de cita de emergencia"(Fig-014).
 
-#### **Descripción:  La recuperación de contraseña es una funcionalidad que permite que el usuario pueda recuperar su contraseña en caso de olvidarla. Para esto es necesario que conozca su pregunta de seguridad.**
-
-<p align="center"><img src="img/012Recuperacion de contrasenia.png" width="600"></p>
-<p align="center">Fig-010 </p>
+<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
+<p align="center">Fig-007</p>
 
 #### Proceso
-<p align="center"><img src="img/cont.png" width="600"></p>
-<p align="center">P-010</p>
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
 
-Para el proceso de recuperar contraseña se puede entrar de dos formas. Una directamente desde la
-página de iniciar sesión o equivocándose 3 veces al iniciar sesión. Una vez dentro se pedirá la
-respuesta a la pregunta de seguridad y una nueva contraseña. Si todo salió correcto el sistema le
-devolverá un mensaje de confirmación de la recuperación de contraseña.
+
+### **15. Visualización de plataformas de video llamada**
+
+**Numero: ** *015*      **Usuario: ** Clientes en general
+
+**Nombre de la historia: ** *Visualización plataformas de video llamada*
+
+**Prioridad en el Negocio: ** *Alto*             **Riesgo de desarrollo: ** *Medio*
+
+**Programador responsable: ** *Roxana Vargas Telleria*
+
+**Validación: ** *El usuario podrá escoger la plataforma con la cual este más familiarizado.
+Al presionar sobre una plataforma simplemente se redireccionará a un link directo que será proporcionado por la clínica,"* 
+
+#### **Descripción: **
+Todos los usuarios que hayan solicitado una cita médica virtual de emergencia podrán observar las plataformas disponibles"(Fig-007).
+
+<p align="center"><img src="img/0071Clinicas menu.png" width="600"></p>
+<p align="center">Fig-007</p>
+
+#### Proceso
+<p align="center"><img src="img/prin.png" width="600"></p>
+<p align="center">P-007</p>
+
 
 
 ## **Conclusión**
