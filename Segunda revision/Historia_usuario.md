@@ -195,10 +195,10 @@ Si es que un usuario es nuevo, este debe crear una nueva cuenta, ingresando al f
 Una vez validado el correo electrónico ingresado aparecerá un formulario para que pueda registrar a sus mascotas.
 
 <p align="center"><img src="img/5.4.PNG" width="600"></p>
-<p align="center">Fig-004</p>
+<p align="center">Fig-004.1</p>
 
 <p align="center"><img src="img/5.4.1.PNG" width="600"></p>
-<p align="center">Fig-004.1</p>
+<p align="center">Fig-004.2</p>
 
 -----------------------------------------------------------------------------
 
